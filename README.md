@@ -8,3 +8,5 @@ ColorCoding - Anki Add-on
 # Usage
 
 
+# Help and Support
+Bug reports
