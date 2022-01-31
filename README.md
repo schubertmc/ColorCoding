@@ -21,5 +21,5 @@ Preset words will automatically be colored while typing within the Add window.
 
 
 # Help and Support
-Bug reports
+Please report any bug reports or feature requests.
 
