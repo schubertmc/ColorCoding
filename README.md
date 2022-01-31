@@ -21,7 +21,11 @@ All available HTML color names and HEX color codes can be used. One color can be
 
 Preset words will automatically be colored while typing within the Add window.
 
+# Contributions
 
 # Help and Support
 Please report any bug reports or feature requests.
+
+# IMPORTANT
+Please note that this add-on is still under development.
 
