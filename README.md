@@ -12,6 +12,7 @@ Please follow the instruction on the anki web page.
 Within anki, open “Tools” -> “Color Coding…”. 
 
 Type
+
 {“word: “color name or code”, …} (e.g.: {"arteries": "red", "veins": "blue”}).
 
 Save.
