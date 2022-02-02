@@ -4,6 +4,8 @@ ColorCoding - Anki Add-on
 Improve your learning strategy with the ColorCoding add-on. ColorCoding lets you set specific font colors for different terms and automatically colors those preset words when adding new cards. Consistent color-coding of your Anki cards will effectively improve memory. 
 
 
+<img src="https://raw.githubusercontent.com/schubertmc/ColorCoding/main/src/example/EXAMPLE.gif?token=GHSAT0AAAAAABRGBY6J32BX274GZQRIO2M4YP25CLA" width="350" />
+
 # Installation
 Please follow the instruction on the anki web page. 
 
