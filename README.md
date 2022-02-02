@@ -6,10 +6,10 @@ Improve your learning strategy with the ColorCoding add-on. ColorCoding lets you
 
 <img src="https://raw.githubusercontent.com/schubertmc/ColorCoding/main/src/example/EXAMPLE.gif?token=GHSAT0AAAAAABRGBY6J32BX274GZQRIO2M4YP25CLA" width="350" />
 
-# Installation
+## Installation
 Please follow the instruction on the anki web page. 
 
-# HOW TO USE ColorCoding
+## How to use ColorCoding
 
 Within anki, open “Tools” -> “Color Coding…”. 
 
@@ -23,10 +23,8 @@ All available HTML color names and HEX color codes can be used. One color can be
 
 Preset words will automatically be colored while typing within the Add window.
 
-# Contributions
-
-# Help and Support
+## Help and Support
 This add-on is still under development.
 Please report any bug reports or feature requests.
 
-
+Marc Schubert, Amelie Paasche
