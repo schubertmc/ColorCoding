@@ -12,7 +12,7 @@ Please follow the instruction on the anki web page.
 ## How to use ColorCoding
 
 
-Within anki,press the ColorCoding button when adding a new card or open “Tools” -> “Color Coding…”. 
+Within anki, press the ColorCoding button when adding a new card or open “Tools” -> “Color Coding…”. 
 
 Type {“word: “color name or code”, …} (e.g.: {"arteries": "red", "veins": "blue”}), 
 
