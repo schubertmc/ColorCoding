@@ -32,7 +32,7 @@ Please report any bug reports or feature requests.
 
 ## Contact
 [schubertmc](https://github.com/schubertmc) 
-
+[ameliepsc](https://github.com/amelipsc)
 
 Marc Schubert -  Amelie Paasche
 <br>
