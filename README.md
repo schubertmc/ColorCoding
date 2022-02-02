@@ -14,11 +14,10 @@ Please follow the instruction on the anki web page.
 
 Within anki,press the ColorCoding button when adding a new card or open “Tools” -> “Color Coding…”. 
 
-Type
+Type {“word: “color name or code”, …} (e.g.: {"arteries": "red", "veins": "blue”}), 
 
-{“word: “color name or code”, …} (e.g.: {"arteries": "red", "veins": "blue”}).
+then save.
 
-Save.
 
 All available HTML color names and HEX color codes can be used. One color can be set for as many words as you want. Thus, specific font colors can be used for either a single term or an entire group of words. 
 
