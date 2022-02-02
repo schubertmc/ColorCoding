@@ -24,10 +24,7 @@ Preset words will automatically be colored while typing within the Add window.
 # Contributions
 
 # Help and Support
+This add-on is still under development.
 Please report any bug reports or feature requests.
-
-## IMPORTANT
-Please note that this add-on is still under development.
-
 
 
