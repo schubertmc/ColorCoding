@@ -31,7 +31,7 @@ Please report any bug reports or feature requests.
 
 
 ## Contact
-[schubertmc]https://github.com/schubertmc 
+[schubertmc](https://github.com/schubertmc) 
 
 
 Marc Schubert -  Amelie Paasche
