@@ -27,4 +27,9 @@ Preset words will automatically be colored while typing within the Add window.
 This add-on is still under development.
 Please report any bug reports or feature requests.
 
+
+
+
 Marc Schubert, Amelie Paasche
+
+2022
