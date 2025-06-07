@@ -43,6 +43,8 @@ Preset datasets for color group word pairs are currently available for German an
 ### Accessing the Preset Datasets
 1. **English Medication List**: [here](https://github.com/schubertmc/ColorCoding/blob/main/src/example/medication_list_english_v2.json)
 2. **German Medication List**: [here](https://github.com/schubertmc/ColorCoding/blob/main/src/example/medication_list_german_v2.json)
+3. **English Medication List (Christina Ton Version)**: [here](https://github.com/schubertmc/ColorCoding/blob/main/src/example/medication_list_english_christinaton.json)
+
 
 These can then be manually inserted into the addon via “Tools” -> “Color Coding…” -> "Modify Manually". 
 
