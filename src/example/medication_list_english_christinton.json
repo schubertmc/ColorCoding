@@ -1,0 +1,7167 @@
+[
+    {
+        "word": "Ramucirumab",
+        "group": "VEGF-Inhibitoren",
+        "color": "MediumTurquoise"
+    },
+    {
+        "word": "Certolizumab",
+        "group": "TNF-Inhibitoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Ciclosporin A",
+        "group": "Calcineurin-Inhibitor",
+        "color": "Teal"
+    },
+    {
+        "word": "Eisencarboxymaltose",
+        "group": "Eisenpr\u00e4parate",
+        "color": "DarkRed"
+    },
+    {
+        "word": "L-Iduronidase",
+        "group": "Enzymersatztherapie",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Corticosteroid",
+        "group": "Glucocorticoide",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Idelalisib",
+        "group": "PI3K-Inhibitoren",
+        "color": "DarkCyan"
+    },
+    {
+        "word": "Naltrexon",
+        "group": "Opioid-Antagonisten",
+        "color": "MediumVioletRed"
+    },
+    {
+        "word": "FSH",
+        "group": "Gonadotropine",
+        "color": "Gold"
+    },
+    {
+        "word": "Lorazepam",
+        "group": "Benzodiazepine",
+        "color": "MediumSlateBlue"
+    },
+    {
+        "word": "Albumin",
+        "group": "Plasmaproteine",
+        "color": "Silver"
+    },
+    {
+        "word": "Zink",
+        "group": "Mineralstoffe",
+        "color": "DarkGray"
+    },
+    {
+        "word": "Triamcinolon",
+        "group": "Glucocorticoide",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Polidocanol",
+        "group": "Lokalan\u00e4sthetika",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Thalidomid",
+        "group": "Immunmodulatoren",
+        "color": "DarkKhaki"
+    },
+    {
+        "word": "Octreotid",
+        "group": "Somatostatin-Analoga",
+        "color": "Plum"
+    },
+    {
+        "word": "Zoledrons\u00e4ure",
+        "group": "Bisphosphonate",
+        "color": "Brown"
+    },
+    {
+        "word": "Ursodeoxychols\u00e4ure",
+        "group": "Choleretika",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Risdiplam",
+        "group": "SMN2-Splei\u00dfmodulatoren",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Azelains\u00e4ure",
+        "group": "Antimikrobielle Wirkstoffe",
+        "color": "PaleTurquoise"
+    },
+    {
+        "word": "Arsentrioxid",
+        "group": "Antineoplastische Wirkstoffe",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Lactulose",
+        "group": "Laxantien",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Interferon\u03b1",
+        "group": "Immunstimulatoren",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Elexacaftor",
+        "group": "CFTR-Modulatoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Ceftolozan",
+        "group": "Cephalosporine",
+        "color": "Plum"
+    },
+    {
+        "word": "Deferoxamin",
+        "group": "Chelatbildner",
+        "color": "Sienna"
+    },
+    {
+        "word": "M\u00e4usedornwurzel",
+        "group": "Phytotherapeutika",
+        "color": "YellowGreen"
+    },
+    {
+        "word": "Ethambutol",
+        "group": "Antituberkulotika",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Selexipag",
+        "group": "Prostacyclin-Analoga",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Albendazol",
+        "group": "Anthelminthika",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Eculizumab",
+        "group": "Komplement-Inhibitoren",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Beclometason",
+        "group": "Glucocorticoide",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "TNF\u03b1",
+        "group": "TNF-Inhibitoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Somatostatin",
+        "group": "Somatostatin-Analoga",
+        "color": "Plum"
+    },
+    {
+        "word": "Rifabutin",
+        "group": "Antibiotika",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Ethanol",
+        "group": "L\u00f6sungsmittel",
+        "color": "Silver"
+    },
+    {
+        "word": "Paracetamol",
+        "group": "Analgetika",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Colchicin",
+        "group": "Antigichtmittel",
+        "color": "Purple"
+    },
+    {
+        "word": "Pilocarpin",
+        "group": "DirekteParasympathomimetika",
+        "color": "LightBlue"
+    },
+    {
+        "word": "NSAR",
+        "group": "Nichtsteroidale Antirheumatika",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Indometacin",
+        "group": "Nichtsteroidale Antirheumatika",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Afatinib",
+        "group": "Tyrosinkinaseinhibitoren",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Octenidin",
+        "group": "Antiseptika",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Ofatumumab",
+        "group": "CD20-Inhibitor",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Flecainid",
+        "group": "Antiarrhythmika",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Isotretinoin",
+        "group": "Retinoide",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Diazepam",
+        "group": "Benzodiazepine",
+        "color": "MediumSlateBlue"
+    },
+    {
+        "word": "5-Fluoruracil",
+        "group": "Zytostatika",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Thiouracil",
+        "group": "Thionamide",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Secukinumab",
+        "group": "IL-17-Inhibitoren",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Glucagon",
+        "group": "Hormone",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Pyrazinamid",
+        "group": "Antituberkulotika",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Ciclosporin",
+        "group": "Calcineurin-Inhibitor",
+        "color": "Teal"
+    },
+    {
+        "word": "Diclofenac",
+        "group": "Nichtsteroidale Antirheumatika",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Chloramphenicol",
+        "group": "Antibiotika",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Adenosin",
+        "group": "Antiarrhythmika",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "rtPA",
+        "group": "Thrombolytika",
+        "color": "Crimson"
+    },
+    {
+        "word": "Orciprenalin",
+        "group": "Sympathomimetika",
+        "color": "Red"
+    },
+    {
+        "word": "Tranexams\u00e4ure",
+        "group": "Antifibrinolytika",
+        "color": "DarkViolet"
+    },
+    {
+        "word": "Allopurinol",
+        "group": "Antigichtmittel",
+        "color": "Purple"
+    },
+    {
+        "word": "Mitotan",
+        "group": "Zytostatika",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Rasburicase",
+        "group": "Urikostatika",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Ropeginterferon",
+        "group": "Interferone",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Antihistaminika",
+        "group": "Antihistaminika",
+        "color": "PeachPuff"
+    },
+    {
+        "word": "Sulfadiazin",
+        "group": "Sulfonamide",
+        "color": "DarkGray"
+    },
+    {
+        "word": "Fidaxomicin",
+        "group": "Makrolide",
+        "color": "Cyan"
+    },
+    {
+        "word": "Podophyllotoxin",
+        "group": "Antimitotika",
+        "color": "Khaki"
+    },
+    {
+        "word": "Griseovulvin",
+        "group": "Antimykotika",
+        "color": "Khaki"
+    },
+    {
+        "word": "Succinylcholin",
+        "group": "Muskelrelaxanzien",
+        "color": "PaleTurquoise"
+    },
+    {
+        "word": "Interferon\u03b2",
+        "group": "Interferone",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Crizotinib",
+        "group": "ALK-Inhibitoren",
+        "color": "LightSalmon"
+    },
+    {
+        "word": "Chlorhexidin",
+        "group": "Antiseptika",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Ketamin",
+        "group": "An\u00e4sthetika",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "LH",
+        "group": "Gonadotropine",
+        "color": "Gold"
+    },
+    {
+        "word": "Nitroglycerin",
+        "group": "Nitrate",
+        "color": "Navy"
+    },
+    {
+        "word": "Vinorelbin",
+        "group": "Vinca-Alkaloide",
+        "color": "Gold"
+    },
+    {
+        "word": "Pentostatin",
+        "group": "Antimetabolite",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Sulbactam",
+        "group": "\u03b2-Lactamase-Inhibitoren",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Bosentan",
+        "group": "Endothelin-Rezeptor-Antagonisten",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Golimumab",
+        "group": "TNF-Inhibitoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Rifampicin",
+        "group": "Ansamycine",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Quinagolid",
+        "group": "Dopaminagonisten",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Leucovorin",
+        "group": "Chemotherapeutika",
+        "color": "LightGreen"
+    },
+    {
+        "word": "Clavulans\u00e4ure",
+        "group": "\u03b2-Lactamase-Inhibitoren",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Cladribin",
+        "group": "Antimetabolite",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Sunitinib",
+        "group": "Tyrosinkinaseinhibitoren",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Glucocorticoide",
+        "group": "Glucocorticoide",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Clonazepam",
+        "group": "Benzodiazepine",
+        "color": "MediumSlateBlue"
+    },
+    {
+        "word": "Niclosamid",
+        "group": "Anthelminthika",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Nusinersen",
+        "group": "Antisense-Oligonukleotide",
+        "color": "DarkKhaki"
+    },
+    {
+        "word": "Iloprost",
+        "group": "Prostaglandine",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Indacaterol",
+        "group": "Beta-2-Agonisten",
+        "color": "Gold"
+    },
+    {
+        "word": "Osimertinib",
+        "group": "EGFR-Tyrosinkinase-Inhibitoren",
+        "color": "LightSalmon"
+    },
+    {
+        "word": "Insulin",
+        "group": "Insuline",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Amorolfin",
+        "group": "Antimykotika",
+        "color": "Khaki"
+    },
+    {
+        "word": "Nintedanib",
+        "group": "Tyrosinkinaseinhibitoren",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Tezacaftor",
+        "group": "CFTR-Modulatoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Diazoxid",
+        "group": "Vasodilatatoren",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Zinksulfat",
+        "group": "Mineralstoffe",
+        "color": "DarkGray"
+    },
+    {
+        "word": "Ajmalin",
+        "group": "Antiarrhythmika",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Minoxidil",
+        "group": "Vasodilatatoren",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Phenobarbital",
+        "group": "Barbiturate",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Terlipressin",
+        "group": "Vasopressin-Analoga",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Isoniazid",
+        "group": "Antituberkulotika",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Praziquantel",
+        "group": "Anthelminthika",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Wei\u00dfdornextrakt",
+        "group": "Phytotherapeutika",
+        "color": "YellowGreen"
+    },
+    {
+        "word": "Pyrazinamid",
+        "group": "Antituberkulotika",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Imiquimod",
+        "group": "Immunmodulatoren",
+        "color": "DarkKhaki"
+    },
+    {
+        "word": "Desmopressin",
+        "group": "Vasopressin-Analoga",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Aminopenicilline",
+        "group": "Aminopenicilline",
+        "color": "Salmon"
+    },
+    {
+        "word": "Mebendazol",
+        "group": "Anthelminthika",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Methadon",
+        "group": "Opioidanalgetika",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Cephalosporin",
+        "group": "Cephalosporine",
+        "color": "Plum"
+    },
+    {
+        "word": "Bendamustin",
+        "group": "Alkylanzien",
+        "color": "Tomato"
+    },
+    {
+        "word": "Knoblauch",
+        "group": "Phytotherapeutika",
+        "color": "YellowGreen"
+    },
+    {
+        "word": "Levomethadon",
+        "group": "Opioidanalgetika",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Gefitinib",
+        "group": "EGFR-Tyrosinkinase-Inhibitoren",
+        "color": "LightSalmon"
+    },
+    {
+        "word": "TNF\u03b1 Antagonisten",
+        "group": "TNF-Inhibitoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Etomidat",
+        "group": "An\u00e4sthetika",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Temsirolimus",
+        "group": "mTOR-Inhibitoren",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Opioid",
+        "group": "Opioidanalgetika",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Digitalis",
+        "group": "Digitalisglykoside",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "HCG",
+        "group": "Gonadotropine",
+        "color": "Gold"
+    },
+    {
+        "word": "EPO",
+        "group": "Erythropoietin",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Gestagen",
+        "group": "Sexualhormone",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Avibactam",
+        "group": "\u03b2-Lactamase-Inhibitoren",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Dihydralazin",
+        "group": "Vasodilatatoren",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Protamin",
+        "group": "Antikoagulanz-Antagonisten",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Rosskastanie",
+        "group": "Phytotherapeutika",
+        "color": "YellowGreen"
+    },
+    {
+        "word": "Aspirin",
+        "group": "Nichtsteroidale Antirheumatika",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Penicillamin",
+        "group": "Chelatbildner",
+        "color": "Sienna"
+    },
+    {
+        "word": "Miconazol",
+        "group": "Antimykotika",
+        "color": "Khaki"
+    },
+    {
+        "word": "Bortezomib",
+        "group": "Proteasom-Inhibitoren",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "FreshfrozenPlasma",
+        "group": "Blutprodukte",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Tazobactam",
+        "group": "\u03b2-Lactamase-Inhibitoren",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Minocyclin",
+        "group": "Tetracycline",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Midodrin",
+        "group": "Vasopressoren",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Hydroxycobalamin",
+        "group": "Vitamin B12",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Aprotinin",
+        "group": "Antifibrinolytika",
+        "color": "DarkViolet"
+    },
+    {
+        "word": "LDH",
+        "group": "Enzyme",
+        "color": "Orange"
+    },
+    {
+        "word": "Macitentan",
+        "group": "Endothelin-Rezeptor-Antagonisten",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Reslizumab",
+        "group": "IL-5-Inhibitoren",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Ibuprofen",
+        "group": "Nichtsteroidale Antirheumatika",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "L-Thyroxin",
+        "group": "Thyroidhormone",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Obinutuzumab",
+        "group": "CD20-Inhibitor",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Sorafenib",
+        "group": "Tyrosinkinaseinhibitoren",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Clomifen",
+        "group": "Gonadotropin-Releasing-Hormon-Antagonisten",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "DHEA",
+        "group": "Steroide",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Colistin",
+        "group": "Polypeptidantibiotika",
+        "color": "Teal"
+    },
+    {
+        "word": "Lumacaftor",
+        "group": "CFTR-Modulatoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Prostaglandin E1",
+        "group": "Prostaglandine",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Procalcitonin",
+        "group": "Biomarker",
+        "color": "SandyBrown"
+    },
+    {
+        "word": "Bisphosphonat",
+        "group": "Bisphosphonate",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Adapalen",
+        "group": "Retinoide",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Vareniclin",
+        "group": "Nikotinrezeptor-Agonisten",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Pyrimethamin",
+        "group": "Antiparasitika",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Dornase alpha",
+        "group": "Mukolytika",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Ciclosporin A",
+        "group": "Calcineurin-Inhibitor",
+        "color": "Teal"
+    },
+    {
+        "word": "G-CSF",
+        "group": "Wachstumsfaktoren",
+        "color": "LightGreen"
+    },
+    {
+        "word": "Digoxin",
+        "group": "Digitalisglykoside",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Digitoxin",
+        "group": "Digitalisglykoside",
+        "color": "Sienna"
+    },
+    {
+        "word": "Tolvaptan",
+        "group": "Vasopressin-Antagonisten",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Ivacaftor",
+        "group": "CFTR-Modulatoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Midazolam",
+        "group": "Benzodiazepine",
+        "color": "MediumSlateBlue"
+    },
+    {
+        "word": "Dronedaron",
+        "group": "Antiarrhythmika",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Opioid",
+        "group": "Opioidanalgetika",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Ambrisentan",
+        "group": "Endothelin-Rezeptor-Antagonisten",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Cangrelor",
+        "group": "ADP-Rezeptor-Hemmer (P2Y12R-Antagonisten)",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Pazopanib",
+        "group": "Tyrosinkinaseinhibitoren",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Buprenorphin",
+        "group": "Opioidanalgetika",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Prilocain",
+        "group": "Lokalan\u00e4sthetika",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Ibrutinib",
+        "group": "Bruton-Tyrosinkinase-Inhibitoren",
+        "color": "Lavender"
+    },
+    {
+        "word": "Sildenafil",
+        "group": "PhosphodiesteraseVHemmer",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Tadalafil",
+        "group": "PhosphodiesteraseVHemmer",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Vardenafil",
+        "group": "PhosphodiesteraseVHemmer",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Ethinylestradiol",
+        "group": "\u00d6strogene",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Clobetasolpropionat",
+        "group": "Glucocorticoide",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Ceritinib",
+        "group": "ALK-Inhibitoren",
+        "color": "LightSalmon"
+    },
+    {
+        "word": "GnRH",
+        "group": "Gonadotropin-Releasing-Hormon-Agonis ten",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Methylenblau",
+        "group": "Antidote",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Ornithinaspartat",
+        "group": "Lebertherapeutika",
+        "color": "Khaki"
+    },
+    {
+        "word": "Riociguat",
+        "group": "Guanylatcyclase-Stimulatoren",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Tolbutamid",
+        "group": "Sulfonylharnstoffe",
+        "color": "Sienna"
+    },
+    {
+        "word": "Tazobactam",
+        "group": "\u03b2-Lactamase-Inhibitoren",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Fusidins\u00e4ure",
+        "group": "Antibiotika",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Cholesterol",
+        "group": "Sterole",
+        "color": "Gold"
+    },
+    {
+        "word": "Lanreotid",
+        "group": "Somatostatin-Analoga",
+        "color": "Plum"
+    },
+    {
+        "word": "Insulin Glargin",
+        "group": "Langwirksame Insulinanaloga",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Insulin Detemir",
+        "group": "Langwirksame Insulinanaloga",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Adriamycin",
+        "group": "Anthracycline",
+        "color": "DeepPink"
+    },
+    {
+        "word": "\u00d6strogen",
+        "group": "\u00d6strogene",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Propafenon",
+        "group": "Antiarrhythmika",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Naproxen",
+        "group": "Nichtsteroidale Antirheumatika",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Filgrastim",
+        "group": "Wachstumsfaktoren",
+        "color": "LightGreen"
+    },
+    {
+        "word": "Morphin",
+        "group": "Opioidanalgetika",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Ethambutol",
+        "group": "Antituberkulotika",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Epinephrin",
+        "group": "Adrenalin",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Hydroxycarbamid",
+        "group": "Antimetabolite",
+        "color": "SpringGreen"
+    },
+    {
+        "word": "Ivermectin",
+        "group": "Antiparasitika",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Benzoylperoxid",
+        "group": "Dermatologische Mittel",
+        "color": "PaleTurquoise"
+    },
+    {
+        "word": "Pamidrons\u00e4ure",
+        "group": "Bisphosphonate",
+        "color": "Wheat"
+    },
+    {
+        "word": "\u00d6strogene",
+        "group": "\u00d6strogene",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Natriumthiosulfat",
+        "group": "Antidote",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Nitrat",
+        "group": "Nitrate",
+        "color": "Navy"
+    },
+    {
+        "word": "Mycophenolat Mofetil",
+        "group": "Immunsuppressiva",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Folins\u00e4ure",
+        "group": "Vitamin B-Komplex",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Retinoiden",
+        "group": "Retinoide",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Nivolumab",
+        "group": "PD-1-Inhibitoren",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Fludrocortison",
+        "group": "Glucocorticoide",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Probenecid",
+        "group": "Uricosurics",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Pegloticase",
+        "group": "Recombinant uricase",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Paromomycin",
+        "group": "Antibiotika",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Phentolamine",
+        "group": "\u03b1 receptor blocker",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Perchlorat",
+        "group": "Thyreostatika",
+        "color": "LightSeaGreen"
+    },
+    {
+        "word": "Procainamide",
+        "group": "Antiarrhythmika",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Hydralazine",
+        "group": "Vasodilatatoren",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Methotrexate",
+        "group": "Antimetabolite",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Oxaliplatin",
+        "group": "Platinverbindungen",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Irinotecan",
+        "group": "Topoisomerase-Inhibitoren",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Capecitabin",
+        "group": "Antimetabolite",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Prostaglandin E1",
+        "group": "Prostaglandine",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Terlipressin",
+        "group": "Vasopressin Analogon",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Ivacaftor",
+        "group": "CFTR-Potenziatoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Lumacaftor",
+        "group": "CFTR-Korrektoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Imatinib",
+        "group": "Tyrosinkinaseinhibitoren",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Erlotinib",
+        "group": "Tyrosinkinaseinhibitoren",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Carfilzomib",
+        "group": "Proteasom-Inhibitoren",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Aflibercept",
+        "group": "VEGF-Inhibitoren",
+        "color": "MediumTurquoise"
+    },
+    {
+        "word": "Vemurafenib",
+        "group": "Raf-V600E-Inhibitoren",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Olaparib",
+        "group": "PARP-Inhibitoren",
+        "color": "Pink"
+    },
+    {
+        "word": "Palbociclib",
+        "group": "CDK-Inhibitoren",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Bevacizumab",
+        "group": "VEGF-Inhibitoren",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Trastuzumab",
+        "group": "EGFR-Inhibitoren",
+        "color": "MediumVioletRed"
+    },
+    {
+        "word": "Cetuximab",
+        "group": "EGFR-Inhibitoren",
+        "color": "MediumVioletRed"
+    },
+    {
+        "word": "Pembrolizumab",
+        "group": "PD-1-Inhibitoren",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Relatlimab",
+        "group": "LAG-3-Inhibitoren",
+        "color": "DarkCyan"
+    },
+    {
+        "word": "Ipilimumab",
+        "group": "CTLA-4-Inhibitoren",
+        "color": "Orange"
+    },
+    {
+        "word": "Lenalidomid",
+        "group": "Ubiquitinierungs-Stimulatoren",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Panobinostat",
+        "group": "HDAC-Inhibitoren",
+        "color": "DarkOliveGreen"
+    },
+    {
+        "word": "Cyclophosphamid",
+        "group": "Alkylanzien - Oxazaphosphorine",
+        "color": "Tomato"
+    },
+    {
+        "word": "Ifosfamid",
+        "group": "Alkylanzien - Oxazaphosphorine",
+        "color": "Tomato"
+    },
+    {
+        "word": "Chlorambucil",
+        "group": "Alkylanzien - N-Lost-Derivate",
+        "color": "Red"
+    },
+    {
+        "word": "Melphalan",
+        "group": "Alkylanzien - N-Lost-Derivate",
+        "color": "Red"
+    },
+    {
+        "word": "Busulfan",
+        "group": "Alkylanzien - Alkylsulfonate",
+        "color": "Brown"
+    },
+    {
+        "word": "Temozolomid",
+        "group": "Alkylanzien - Hydrazine",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Dacarbazin",
+        "group": "Alkylanzien - Hydrazine",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Procarbazin",
+        "group": "Alkylanzien - Hydrazine",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Cisplatin",
+        "group": "Alkylanzien - Platin-haltige Substanzen",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Carboplatin",
+        "group": "Alkylanzien - Platin-haltige Substanzen",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Oxaliplatin",
+        "group": "Alkylanzien - Platin-haltige Substanzen",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Doxorubicin",
+        "group": "Topoisomerase-Hemmstoffe - Anthracycline",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Daunorubicin",
+        "group": "Topoisomerase-Hemmstoffe - Anthracycline",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Idarubicin",
+        "group": "Topoisomerase-Hemmstoffe - Anthracycline",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Epirubicin",
+        "group": "Topoisomerase-Hemmstoffe - Anthracycline",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Irinotecan",
+        "group": "Topoisomerase-Hemmstoffe - Topoisomerase-I-Hemmer",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Topotecan",
+        "group": "Topoisomerase-Hemmstoffe - Topoisomerase-I-Hemmer",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Etoposid",
+        "group": "Topoisomerase-Hemmstoffe - Topoisomerase-II-Hemmer",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Vincristin",
+        "group": "Mitosehemmstoffe (Spindelgifte) - Vinca-Alkaloide",
+        "color": "Gold"
+    },
+    {
+        "word": "Vinblastin",
+        "group": "Mitosehemmstoffe (Spindelgifte) - Vinca-Alkaloide",
+        "color": "Gold"
+    },
+    {
+        "word": "Docetaxel",
+        "group": "Mitosehemmstoffe (Spindelgifte) - Taxane",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Paclitaxel",
+        "group": "Mitosehemmstoffe (Spindelgifte) - Taxane",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Methotrexat",
+        "group": "Antimetabolite - Fols\u00e4ure-Antagonisten",
+        "color": "LawnGreen"
+    },
+    {
+        "word": "Pemetrexed",
+        "group": "Antimetabolite - Fols\u00e4ure-Antagonisten",
+        "color": "LawnGreen"
+    },
+    {
+        "word": "Cytarabin",
+        "group": "Antimetabolite - Pyrimidin-Antagonisten",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "5FU",
+        "group": "Antimetabolite - Pyrimidin-Antagonisten",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Gemcitabin",
+        "group": "Antimetabolite - Pyrimidin-Antagonisten",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Capecitabin",
+        "group": "Antimetabolite - Pyrimidin-Antagonisten",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Azathioprin",
+        "group": "Antimetabolite - Purin-Antagonisten",
+        "color": "GreenYellow"
+    },
+    {
+        "word": "6Mercaptopurin",
+        "group": "Antimetabolite - Purin-Antagonisten",
+        "color": "GreenYellow"
+    },
+    {
+        "word": "Fludarabin",
+        "group": "Antimetabolite - Purin-Antagonisten",
+        "color": "GreenYellow"
+    },
+    {
+        "word": "Hydroxyurea (Hydroxycarbamid)",
+        "group": "Antimetabolite - Ribonukleotidreduktase-Hemmer",
+        "color": "SpringGreen"
+    },
+    {
+        "word": "Bleomycin",
+        "group": "Andere - Antibiotika",
+        "color": "Plum"
+    },
+    {
+        "word": "Actinomycin D",
+        "group": "Andere - Antibiotika",
+        "color": "Plum"
+    },
+    {
+        "word": "Mitomycin",
+        "group": "Andere - Antibiotika",
+        "color": "Plum"
+    },
+    {
+        "word": "LAsparaginase",
+        "group": "Andere - Enzyme",
+        "color": "Orange"
+    },
+    {
+        "word": "Methotrexat",
+        "group": "Fols\u00e4ure-Analogon",
+        "color": "Crimson"
+    },
+    {
+        "word": "Azathioprin",
+        "group": "Purin-Analogon",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Mycophenolatmofetil",
+        "group": "Inosinmonophosphatdehydrogenase-Inhibitor",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Leflunomid",
+        "group": "Dihydroorotatdehydrogenase-Inhibitor",
+        "color": "DarkOliveGreen"
+    },
+    {
+        "word": "Cyclophosphamid",
+        "group": "Alkylanz",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Ciclosporin A",
+        "group": "Calcineurin-Inhibitor",
+        "color": "Teal"
+    },
+    {
+        "word": "Tacrolimus",
+        "group": "Calcineurin-Inhibitor",
+        "color": "Teal"
+    },
+    {
+        "word": "Sirolimus",
+        "group": "mTOR-Inhibitor",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Everolimus",
+        "group": "mTOR-Inhibitor",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Fingolimod",
+        "group": "Sphingosin-1-phosphat-Rezeptor-Agonist",
+        "color": "MediumTurquoise"
+    },
+    {
+        "word": "Infliximab",
+        "group": "TNF-Inhibitoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Adalimumab",
+        "group": "TNF-Inhibitoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Etanercept",
+        "group": "TNF-Inhibitoren",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Muromonab",
+        "group": "CD3-Inhibitor",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Rituximab",
+        "group": "CD20-Inhibitor",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Basiliximab",
+        "group": "CD25-Inhibitor",
+        "color": "SlateBlue"
+    },
+    {
+        "word": "Alemtuzumab",
+        "group": "CD52-Inhibitor",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Abatacept",
+        "group": "CD80/86-CD28-Interaktions-Inhibitor",
+        "color": "SpringGreen"
+    },
+    {
+        "word": "Natalizumab",
+        "group": "Integrin-\u03b14-Inhibitor",
+        "color": "SeaGreen"
+    },
+    {
+        "word": "Omalizumab",
+        "group": "IgE-Inhibitor",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Anakinra",
+        "group": "IL-1R-Antagonist",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Canakinumab",
+        "group": "IL-1-Inhibitor",
+        "color": "Crimson"
+    },
+    {
+        "word": "Mepolizumab",
+        "group": "IL-5-Inhibitor",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Tocilizumab",
+        "group": "IL-6-Inhibitor",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Ustekinumab",
+        "group": "IL-12/23-Inhibitor",
+        "color": "DarkViolet"
+    },
+    {
+        "word": "Mesalazin",
+        "group": "Leukotrien- und Prostaglandin-Synthesehemmer",
+        "color": "MediumSpringGreen"
+    },
+    {
+        "word": "Sulfasalazin",
+        "group": "Prodrug (metabolisiert zu Sulfapyridin und 5-ASA)",
+        "color": "Turquoise"
+    },
+    {
+        "word": "Dimethylfumarat",
+        "group": "Unklarer Wirkmechanismus (HCA2-Rezeptor Blocker)",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Glatirameracetat",
+        "group": "Unklarer Wirkmechanismus (Bindung an MHC-II)",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Hydroxychloroquin",
+        "group": "Unklarer Wirkmechanismus (Toll-like-Rezeptor-Inhibitor)",
+        "color": "SandyBrown"
+    },
+    {
+        "word": "Chloroquin",
+        "group": "Unklarer Wirkmechanismus (Toll-like-Rezeptor-Inhibitor)",
+        "color": "SandyBrown"
+    },
+    {
+        "word": "Tofacitinib",
+        "group": "Januskinase-Inhibitor",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Baricitinib",
+        "group": "Januskinase-Inhibitor",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Amiodaron",
+        "group": "Klasse-III-Antiarrhythmikum",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Glyceroltrinitrat",
+        "group": "Nitrate",
+        "color": "Navy"
+    },
+    {
+        "word": "Isosorbidmononitrat",
+        "group": "Nitrate",
+        "color": "Navy"
+    },
+    {
+        "word": "Isosorbiddinitrat",
+        "group": "Nitrate",
+        "color": "Navy"
+    },
+    {
+        "word": "Pentaerithrityltetranitrat",
+        "group": "Nitrate",
+        "color": "Navy"
+    },
+    {
+        "word": "Molsidomin",
+        "group": "Molsidomin",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Theophyllin",
+        "group": "UnspezifischePhosphodiesteraseHemmer",
+        "color": "Gold"
+    },
+    {
+        "word": "Milrinon",
+        "group": "PhosphodiesteraseIIIHemmer",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Enoximon",
+        "group": "PhosphodiesteraseIIIHemmer",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Roflumilast",
+        "group": "PhosphodiesteraseIVHemmer",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Sildenafil",
+        "group": "PhosphodiesteraseVHemmer",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Tadalafil",
+        "group": "PhosphodiesteraseVHemmer",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Vardenafil",
+        "group": "PhosphodiesteraseVHemmer",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Digoxin",
+        "group": "Digitalisglykoside",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Digitoxin",
+        "group": "Digitalisglykoside",
+        "color": "Sienna"
+    },
+    {
+        "word": "Acetylsalicyls\u00e4ure (ASS)",
+        "group": "Irreversibler COX-Inhibitor",
+        "color": "Pink"
+    },
+    {
+        "word": "Clopidogrel",
+        "group": "ADP-Rezeptor-Hemmer (P2Y12R-Antagonisten)",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Prasugrel",
+        "group": "ADP-Rezeptor-Hemmer (P2Y12R-Antagonisten)",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Ticagrelor",
+        "group": "ADP-Rezeptor-Hemmer (P2Y12R-Antagonisten)",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Ticlopidin",
+        "group": "ADP-Rezeptor-Hemmer (P2Y12R-Antagonisten)",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Tirofiban",
+        "group": "Glykoprotein-IIb/IIIa-Antagonisten (i.v. Applikation)",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Eptifibatid",
+        "group": "Glykoprotein-IIb/IIIa-Antagonisten (i.v. Applikation)",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Abciximab",
+        "group": "Glykoprotein-IIb/IIIa-Antagonisten (i.v. Applikation)",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Heparin",
+        "group": "Unfraktioniertes Heparin (UFH)",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "UFH",
+        "group": "Unfraktioniertes Heparin (UFH)",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "Dalteparin",
+        "group": "Fraktioniertes Heparin (NMH)",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Enoxaparin",
+        "group": "Fraktioniertes Heparin (NMH)",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Tinzaparin",
+        "group": "Fraktioniertes Heparin (NMH)",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Certoparin",
+        "group": "Fraktioniertes Heparin (NMH)",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "NMH",
+        "group": "Fraktioniertes Heparin (NMH)",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Fondaparinux",
+        "group": "Heparinoide",
+        "color": "Orchid"
+    },
+    {
+        "word": "Danaparoid",
+        "group": "Heparinoide",
+        "color": "Orchid"
+    },
+    {
+        "word": "Bivalirudin",
+        "group": "Rekombinantes Hirudin",
+        "color": "Violet"
+    },
+    {
+        "word": "Desirudin",
+        "group": "Rekombinantes Hirudin",
+        "color": "Violet"
+    },
+    {
+        "word": "Lepirudin",
+        "group": "Rekombinantes Hirudin",
+        "color": "Violet"
+    },
+    {
+        "word": "Argatroban",
+        "group": "Synthetisches L-Arginin-Derivat",
+        "color": "Plum"
+    },
+    {
+        "word": "Phenprocoumon",
+        "group": "Vitamin-K-Antagonisten (Cumarine)",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Warfarin",
+        "group": "Vitamin-K-Antagonisten (Cumarine)",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Dabigatran",
+        "group": "Orale direkte Thrombin-Inhibitoren",
+        "color": "Green"
+    },
+    {
+        "word": "Apixaban",
+        "group": "Orale direkte Faktor-Xa-Inhibitoren",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Rivaroxaban",
+        "group": "Orale direkte Faktor-Xa-Inhibitoren",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Edoxaban",
+        "group": "Orale direkte Faktor-Xa-Inhibitoren",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Acetazolamid",
+        "group": "Carboanhydrasehemmer",
+        "color": "Gold"
+    },
+    {
+        "word": "Mannit",
+        "group": "Osmodiuretika",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Mannitol",
+        "group": "Osmodiuretika",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Glycerin",
+        "group": "Osmodiuretika",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Sorbit",
+        "group": "Osmodiuretika",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Hydrochlorothiazid",
+        "group": "Thiazide",
+        "color": "DarkSlateGray"
+    },
+    {
+        "word": "Xipamid",
+        "group": "Thiazide",
+        "color": "DarkSlateGray"
+    },
+    {
+        "word": "Chlortalidon",
+        "group": "Thiazide",
+        "color": "DarkSlateGray"
+    },
+    {
+        "word": "Furosemid",
+        "group": "Schleifendiuretika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Torasemid",
+        "group": "Schleifendiuretika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Bumetanid",
+        "group": "Schleifendiuretika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Piretanid",
+        "group": "Schleifendiuretika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Etacryns\u00e4ure",
+        "group": "Schleifendiuretika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Etozolin",
+        "group": "Schleifendiuretika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Eplerenon",
+        "group": "MineralocorticoidrezeptorAntagonisten",
+        "color": "LightGreen"
+    },
+    {
+        "word": "Spironolacton",
+        "group": "MineralocorticoidrezeptorAntagonisten",
+        "color": "LightGreen"
+    },
+    {
+        "word": "Triamteren",
+        "group": "KaliumsparendeAldosteronunabhaengigeDiuretika",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Amilorid",
+        "group": "KaliumsparendeAldosteronunabhaengigeDiuretika",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Dimetinden",
+        "group": "H1RAntagonisten1Generation",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Diphenhydramin",
+        "group": "H1RAntagonisten1Generation",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Meclozin",
+        "group": "H1RAntagonisten1Generation",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Promethazin",
+        "group": "H1RAntagonisten1Generation",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Clemastin",
+        "group": "H1RAntagonisten1Generation",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Dimenhydrinat",
+        "group": "H1RAntagonisten1Generation",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Loratadin",
+        "group": "H1RAntagonisten2Generation",
+        "color": "Salmon"
+    },
+    {
+        "word": "Cetirizin",
+        "group": "H1RAntagonisten2Generation",
+        "color": "Salmon"
+    },
+    {
+        "word": "Azelastin",
+        "group": "H1RAntagonisten2Generation",
+        "color": "Salmon"
+    },
+    {
+        "word": "Fexofenadin",
+        "group": "H1RAntagonisten2Generation",
+        "color": "Salmon"
+    },
+    {
+        "word": "Ranitidin",
+        "group": "H2RAntagonisten",
+        "color": "Crimson"
+    },
+    {
+        "word": "Cimetidin",
+        "group": "H2RAntagonisten",
+        "color": "Crimson"
+    },
+    {
+        "word": "Cortisol",
+        "group": "Glucocorticoide",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Hydrocortison",
+        "group": "Glucocorticoide",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Prednisolon",
+        "group": "Glucocorticoide",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Prednison",
+        "group": "Glucocorticoide",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Dexamethason",
+        "group": "Glucocorticoide",
+        "color": "Navy"
+    },
+    {
+        "word": "Betamethason",
+        "group": "Glucocorticoide",
+        "color": "Navy"
+    },
+    {
+        "word": "Cortison",
+        "group": "Glucocorticoide",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "6-Methyl-Prednisolon",
+        "group": "Glucocorticoide",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Budesonid",
+        "group": "Glucocorticoide",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Fluticason",
+        "group": "Glucocorticoide",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Omeprazol",
+        "group": "Protonenpumpenhemmer",
+        "color": "Orange"
+    },
+    {
+        "word": "Pantoprazol",
+        "group": "Protonenpumpenhemmer",
+        "color": "Orange"
+    },
+    {
+        "word": "Esomeprazol",
+        "group": "Protonenpumpenhemmer",
+        "color": "Orange"
+    },
+    {
+        "word": "PPI",
+        "group": "Protonenpumpenhemmer",
+        "color": "Orange"
+    },
+    {
+        "word": "Atorvastatin",
+        "group": "Statine",
+        "color": "Gold"
+    },
+    {
+        "word": "Fluvastatin",
+        "group": "Statine",
+        "color": "Gold"
+    },
+    {
+        "word": "Lovastatin",
+        "group": "Statine",
+        "color": "Gold"
+    },
+    {
+        "word": "Pravastatin",
+        "group": "Statine",
+        "color": "Gold"
+    },
+    {
+        "word": "Rosuvastatin",
+        "group": "Statine",
+        "color": "Gold"
+    },
+    {
+        "word": "Simvastatin",
+        "group": "Statine",
+        "color": "Gold"
+    },
+    {
+        "word": "Bezafibrat",
+        "group": "Fibrate",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Fenofibrat",
+        "group": "Fibrate",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Gemfibrozil",
+        "group": "Fibrate",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Ezetimib",
+        "group": "CholesterolAbsorptionInhibitor",
+        "color": "Lime"
+    },
+    {
+        "word": "Evolocumab",
+        "group": "PCSK9Inhibitoren",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Alirocumab",
+        "group": "PCSK9Inhibitoren",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Colestyramin",
+        "group": "Anionenaustauscherharze",
+        "color": "DarkGray"
+    },
+    {
+        "word": "Colesevelam",
+        "group": "Anionenaustauscherharze",
+        "color": "DarkGray"
+    },
+    {
+        "word": "Metformin",
+        "group": "Biguanide",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Glibenclamid",
+        "group": "Sulfonylharnstoffe",
+        "color": "Sienna"
+    },
+    {
+        "word": "Glimepirid",
+        "group": "Sulfonylharnstoffe",
+        "color": "Sienna"
+    },
+    {
+        "word": "Nateglinid",
+        "group": "Glinide",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Repaglinid",
+        "group": "Glinide",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Saxagliptin",
+        "group": "DPP4-Inhibitoren",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Sitagliptin",
+        "group": "DPP4-Inhibitoren",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Exenatide",
+        "group": "GLP-1R-Agonisten",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Liraglutid",
+        "group": "GLP-1R-Agonisten",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Albiglutid",
+        "group": "GLP-1R-Agonisten",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Dapagliflozin",
+        "group": "SGLT2-Inhibitoren",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "Empagliflozin",
+        "group": "SGLT2-Inhibitoren",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "Ertugliflozin",
+        "group": "SGLT2-Inhibitoren",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "Acarbose",
+        "group": "\u03b1-Glucosidasehemmer",
+        "color": "Pink"
+    },
+    {
+        "word": "Pioglitazon",
+        "group": "Glitazone",
+        "color": "MediumVioletRed"
+    },
+    {
+        "word": "Normalinsulin",
+        "group": "Normalinsulin (Altinsulin)",
+        "color": "MediumSlateBlue"
+    },
+    {
+        "word": "Insulin Lispro",
+        "group": "Schnell- und kurzwirksame Insulinanaloga",
+        "color": "SlateBlue"
+    },
+    {
+        "word": "Insulin Aspart",
+        "group": "Schnell- und kurzwirksame Insulinanaloga",
+        "color": "SlateBlue"
+    },
+    {
+        "word": "Insulin Glulisin",
+        "group": "Schnell- und kurzwirksame Insulinanaloga",
+        "color": "SlateBlue"
+    },
+    {
+        "word": "NPH-Insuline",
+        "group": "Verz\u00f6gerungsinsuline",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Insulin Detemir",
+        "group": "Langwirksame Insulinanaloga",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Insulin Degludec",
+        "group": "Langwirksame Insulinanaloga",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Insulin Glargin",
+        "group": "Langwirksame Insulinanaloga",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Kombinationsinsuline",
+        "group": "Kombinationsinsuline",
+        "color": "Indigo"
+    },
+    {
+        "word": "Alendronat",
+        "group": "Bisphosphonate",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Risedronat",
+        "group": "Bisphosphonate",
+        "color": "SandyBrown"
+    },
+    {
+        "word": "Zoledronat",
+        "group": "Bisphosphonate",
+        "color": "Brown"
+    },
+    {
+        "word": "Ibandronat",
+        "group": "Bisphosphonate",
+        "color": "Tan"
+    },
+    {
+        "word": "Clodronat",
+        "group": "Bisphosphonate",
+        "color": "Sienna"
+    },
+    {
+        "word": "Pamidronat",
+        "group": "Bisphosphonate",
+        "color": "Wheat"
+    },
+    {
+        "word": "Tiludronat",
+        "group": "Bisphosphonate",
+        "color": "Khaki"
+    },
+    {
+        "word": "Thiamazol",
+        "group": "Thionamide",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Carbimazol",
+        "group": "Thionamide",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Propylthiouracil",
+        "group": "Thionamide",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Natriumperchlorat",
+        "group": "Perchlorate",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Lithium",
+        "group": "Lithium",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Iodid",
+        "group": "Iodid",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Imidazole",
+        "group": "Imidazole",
+        "color": "Crimson"
+    },
+    {
+        "word": "Clotrimazol",
+        "group": "Imidazole",
+        "color": "Crimson"
+    },
+    {
+        "word": "Ketoconazol",
+        "group": "Imidazole",
+        "color": "Crimson"
+    },
+    {
+        "word": "Bifonazol",
+        "group": "Imidazole",
+        "color": "Crimson"
+    },
+    {
+        "word": "Triazole",
+        "group": "Triazole",
+        "color": "Navy"
+    },
+    {
+        "word": "Fluconazol",
+        "group": "Triazole",
+        "color": "Navy"
+    },
+    {
+        "word": "Voriconazol",
+        "group": "Triazole",
+        "color": "Navy"
+    },
+    {
+        "word": "Itraconazol",
+        "group": "Triazole",
+        "color": "Navy"
+    },
+    {
+        "word": "Posaconazol",
+        "group": "Triazole",
+        "color": "Navy"
+    },
+    {
+        "word": "PolyenAntimykotika",
+        "group": "PolyenAntimykotika",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "AmphotericinB",
+        "group": "PolyenAntimykotika",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Nystatin",
+        "group": "PolyenAntimykotika",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Echinokandine",
+        "group": "Echinokandine",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Caspofungin",
+        "group": "Echinokandine",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Anidulafungin",
+        "group": "Echinokandine",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Micafungin",
+        "group": "Echinokandine",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Hydroxypyridonderivate",
+        "group": "Hydroxypyridonderivate",
+        "color": "Gold"
+    },
+    {
+        "word": "Ciclopirox",
+        "group": "Hydroxypyridonderivate",
+        "color": "Gold"
+    },
+    {
+        "word": "Allylamine",
+        "group": "Allylamine",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Terbinafin",
+        "group": "Allylamine",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Haloperidol",
+        "group": "Hochpotente Antipsychotika",
+        "color": "Red"
+    },
+    {
+        "word": "Benperidol",
+        "group": "Hochpotente Antipsychotika",
+        "color": "Red"
+    },
+    {
+        "word": "Flupentixol",
+        "group": "Hochpotente Antipsychotika",
+        "color": "Red"
+    },
+    {
+        "word": "Fluspirilen",
+        "group": "Hochpotente Antipsychotika",
+        "color": "Red"
+    },
+    {
+        "word": "Fluphenazin",
+        "group": "Hochpotente Antipsychotika",
+        "color": "Red"
+    },
+    {
+        "word": "Perphenazin",
+        "group": "Hochpotente Antipsychotika",
+        "color": "Red"
+    },
+    {
+        "word": "Chlorpromazin",
+        "group": "Mittelpotente Antipsychotika",
+        "color": "Crimson"
+    },
+    {
+        "word": "Melperon",
+        "group": "Niederpotente Antipsychotika",
+        "color": "Orange"
+    },
+    {
+        "word": "Levomepromazin",
+        "group": "Niederpotente Antipsychotika",
+        "color": "Orange"
+    },
+    {
+        "word": "Chlorprothixen",
+        "group": "Niederpotente Antipsychotika",
+        "color": "Orange"
+    },
+    {
+        "word": "Pipamperon",
+        "group": "Niederpotente Antipsychotika",
+        "color": "Orange"
+    },
+    {
+        "word": "Promethazin",
+        "group": "Niederpotente Antipsychotika",
+        "color": "Orange"
+    },
+    {
+        "word": "Amisulprid",
+        "group": "Atypische Antipsychotika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Aripiprazol",
+        "group": "Atypische Antipsychotika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Clozapin",
+        "group": "Atypische Antipsychotika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Olanzapin",
+        "group": "Atypische Antipsychotika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Quetiapin",
+        "group": "Atypische Antipsychotika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Risperidon",
+        "group": "Atypische Antipsychotika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Ziprasidon",
+        "group": "Atypische Antipsychotika",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Citalopram",
+        "group": "SSRI",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Escitalopram",
+        "group": "SSRI",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Sertralin",
+        "group": "SSRI",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Fluvoxamin",
+        "group": "SSRI",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Fluoxetin",
+        "group": "SSRI",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Paroxetin",
+        "group": "SSRI",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Duloxetin",
+        "group": "SSNRI",
+        "color": "Gold"
+    },
+    {
+        "word": "Milnacipran",
+        "group": "SSNRI",
+        "color": "Gold"
+    },
+    {
+        "word": "Venlafaxin",
+        "group": "SSNRI",
+        "color": "Gold"
+    },
+    {
+        "word": "Bupropion",
+        "group": "SNDRI",
+        "color": "DarkCyan"
+    },
+    {
+        "word": "Amitriptylin",
+        "group": "NSMRI",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Doxepin",
+        "group": "NSMRI",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Imipramin",
+        "group": "NSMRI",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Clomipramin",
+        "group": "NSMRI",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Nortriptylin",
+        "group": "NSMRI",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Trimipramin",
+        "group": "NSMRI",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Moclobemid",
+        "group": "MAOH",
+        "color": "Violet"
+    },
+    {
+        "word": "Tranylcypromin",
+        "group": "MAOH",
+        "color": "Violet"
+    },
+    {
+        "word": "Mirtazapin",
+        "group": "\u03b12AR-Antagonist",
+        "color": "Coral"
+    },
+    {
+        "word": "Agomelatin",
+        "group": "Melatonin-Analoga",
+        "color": "Teal"
+    },
+    {
+        "word": "Johanniskraut",
+        "group": "Phytotherapeutika",
+        "color": "YellowGreen"
+    },
+    {
+        "word": "Lithium",
+        "group": "Lithium",
+        "color": "LawnGreen"
+    },
+    {
+        "word": "Carbamazepin",
+        "group": "Typische Antiepileptika",
+        "color": "Tomato"
+    },
+    {
+        "word": "Ethosuximid",
+        "group": "Typische Antiepileptika",
+        "color": "DarkCyan"
+    },
+    {
+        "word": "Phenytoin",
+        "group": "Typische Antiepileptika",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Valproat",
+        "group": "Typische Antiepileptika",
+        "color": "DarkMagenta"
+    },
+    {
+        "word": "Gabapentin",
+        "group": "Neuere Anfallssuppressiva",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Lacosamid",
+        "group": "Neuere Anfallssuppressiva",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Lamotrigin",
+        "group": "Neuere Anfallssuppressiva",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Levetiracetam",
+        "group": "Neuere Anfallssuppressiva",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Pregabalin",
+        "group": "Neuere Anfallssuppressiva",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Topiramat",
+        "group": "Neuere Anfallssuppressiva",
+        "color": "Crimson"
+    },
+    {
+        "word": "Vigabatrin",
+        "group": "Neuere Anfallssuppressiva",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "LDopa",
+        "group": "Dopaminvorstufen",
+        "color": "Blue"
+    },
+    {
+        "word": "Carbidopa",
+        "group": "Dopaminvorstufen",
+        "color": "Blue"
+    },
+    {
+        "word": "Benserazid",
+        "group": "Dopaminvorstufen",
+        "color": "Blue"
+    },
+    {
+        "word": "Selegilin",
+        "group": "MAO-B-Hemmer",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Rasagilin",
+        "group": "MAO-B-Hemmer",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Ropinirol",
+        "group": "Dopaminagonisten (Non-Ergot)",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Pramipexol",
+        "group": "Dopaminagonisten (Non-Ergot)",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Apomorphin",
+        "group": "Dopaminagonisten (Non-Ergot)",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Rotigotin",
+        "group": "Dopaminagonisten (Non-Ergot)",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Piribedil",
+        "group": "Dopaminagonisten (Non-Ergot)",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Bromocriptin",
+        "group": "Dopaminagonisten (Ergot)",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Cabergolin",
+        "group": "Dopaminagonisten (Ergot)",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Opicapon",
+        "group": "COMT-Hemmer",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Entacapon",
+        "group": "COMT-Hemmer",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Tolcapon",
+        "group": "COMT-Hemmer",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Amantadin",
+        "group": "NMDA-Antagonisten",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Budipin",
+        "group": "NMDA-Antagonisten",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Biperiden",
+        "group": "Anticholinergika",
+        "color": "CadetBlue"
+    },
+    {
+        "word": "Aciclovir",
+        "group": "DNA-Polymerase-Inhibitoren",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Valaciclovir",
+        "group": "DNA-Polymerase-Inhibitoren",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Ganciclovir",
+        "group": "DNA-Polymerase-Inhibitoren",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Foscarnet",
+        "group": "DNA-Polymerase-Inhibitoren",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Fomivirsen",
+        "group": "Antisense-Oligonukleotid",
+        "color": "DarkKhaki"
+    },
+    {
+        "word": "Amantadin",
+        "group": "Ionenkanalblocker",
+        "color": "LightSeaGreen"
+    },
+    {
+        "word": "Oseltamivir",
+        "group": "Neuraminidase-Hemmer",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Zanamivir",
+        "group": "Neuraminidase-Hemmer",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Tenofovir",
+        "group": "NtRTI",
+        "color": "Sienna"
+    },
+    {
+        "word": "Adefovir",
+        "group": "NtRTI",
+        "color": "Sienna"
+    },
+    {
+        "word": "Entecavir",
+        "group": "NsRTI",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Lamivudin",
+        "group": "NsRTI",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Telbivudin",
+        "group": "NsRTI",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "PEGInterferon\u03b1",
+        "group": "PEG-Interferon-\u03b1",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Glecaprevir",
+        "group": "AntiviralePharmakaGegenHepatitisC",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Grazoprevir",
+        "group": "AntiviralePharmakaGegenHepatitisC",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Voxilaprevir",
+        "group": "AntiviralePharmakaGegenHepatitisC",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Paritaprevir",
+        "group": "AntiviralePharmakaGegenHepatitisC",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Simeprevir",
+        "group": "AntiviralePharmakaGegenHepatitisC",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Telaprevir",
+        "group": "NS3-Protease-Inhibitoren",
+        "color": "Teal"
+    },
+    {
+        "word": "Boceprevir",
+        "group": "NS3-Protease-Inhibitoren",
+        "color": "Teal"
+    },
+    {
+        "word": "Ledipasvir",
+        "group": "NS5A-Inhibitoren",
+        "color": "Cyan"
+    },
+    {
+        "word": "Elbasvir",
+        "group": "NS5A-Inhibitoren",
+        "color": "Cyan"
+    },
+    {
+        "word": "Velpatasvir",
+        "group": "NS5A-Inhibitoren",
+        "color": "Cyan"
+    },
+    {
+        "word": "Pibrentasvir",
+        "group": "NS5A-Inhibitoren",
+        "color": "Cyan"
+    },
+    {
+        "word": "Ombitasvir",
+        "group": "NS5A-Inhibitoren",
+        "color": "Cyan"
+    },
+    {
+        "word": "Daclatasvir",
+        "group": "NS5A-Inhibitoren",
+        "color": "Cyan"
+    },
+    {
+        "word": "Sofosbuvir",
+        "group": "NS5B-Inhibitoren",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Dasabuvir",
+        "group": "NS5B-Inhibitoren",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Ribavirin",
+        "group": "Nukleosidanalogon (RNA-Polymerase-Inhibitor)",
+        "color": "FireBrick"
+    },
+    {
+        "word": "NtRTI",
+        "group": "NtRTI",
+        "color": "Sienna"
+    },
+    {
+        "word": "NsRTI",
+        "group": "NsRTI",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "PEGInterferon\u03b1",
+        "group": "PEGInterferon\u03b1",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "NS3ProteaseInhibitoren",
+        "group": "NS3ProteaseInhibitoren",
+        "color": "Teal"
+    },
+    {
+        "word": "NS5AInhibitoren",
+        "group": "NS5AInhibitoren",
+        "color": "Cyan"
+    },
+    {
+        "word": "NS5BInhibitoren",
+        "group": "NS5BInhibitoren",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Pilocarpin",
+        "group": "DirekteParasympathomimetika",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Carbachol",
+        "group": "DirekteParasympathomimetika",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Bethanechol",
+        "group": "DirekteParasympathomimetika",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Neostigmin",
+        "group": "IndirekteParasympathomimetika",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Pyridostigmin",
+        "group": "IndirekteParasympathomimetika",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Distigmin",
+        "group": "IndirekteParasympathomimetika",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Physostigmin",
+        "group": "IndirekteParasympathomimetika",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Edrophonium",
+        "group": "IndirekteParasympathomimetika",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Donepezil",
+        "group": "Antidementiva",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Rivastigmin",
+        "group": "Antidementiva",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Galantamin",
+        "group": "Antidementiva",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Insektizid",
+        "group": "IrreversibleHemmungDerAcetylcholinesterase",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Atropin",
+        "group": "Parasympatholytika - TertiaereAmine",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Scopolamin",
+        "group": "Parasympatholytika - TertiaereAmine",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Tropicamid",
+        "group": "Parasympatholytika - TertiaereAmine",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Biperiden",
+        "group": "Parasympatholytika - TertiaereAmine",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Oxybutynin",
+        "group": "Parasympatholytika - TertiaereAmine",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Darifenacin",
+        "group": "Parasympatholytika - TertiaereAmine",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Tolterodin",
+        "group": "Parasympatholytika - TertiaereAmine",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Butylscopolamin",
+        "group": "Parasympatholytika - QuartaereAmine",
+        "color": "Orange"
+    },
+    {
+        "word": "Ipratropiumbromid",
+        "group": "Parasympatholytika - QuartaereAmine",
+        "color": "Orange"
+    },
+    {
+        "word": "Tiotropiumbromid",
+        "group": "Parasympatholytika - QuartaereAmine",
+        "color": "Orange"
+    },
+    {
+        "word": "Salbutamol",
+        "group": "\u03b22Sympathomimetika - Kurz",
+        "color": "Red"
+    },
+    {
+        "word": "Fenoterol",
+        "group": "\u03b22Sympathomimetika - Kurz",
+        "color": "Red"
+    },
+    {
+        "word": "Reproterol",
+        "group": "\u03b22Sympathomimetika - Kurz",
+        "color": "Red"
+    },
+    {
+        "word": "Terbutalin",
+        "group": "\u03b22Sympathomimetika - Kurz",
+        "color": "Red"
+    },
+    {
+        "word": "Formoterol",
+        "group": "\u03b22Sympathomimetika - Lang",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Salmeterol",
+        "group": "\u03b22Sympathomimetika - Lang",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Phenylephrin",
+        "group": "DirekteSympathomimetika - alpha1AR-Agonisten (lokal wirkend)",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Xylometazolin",
+        "group": "DirekteSympathomimetika - alpha1AR-Agonisten (lokal wirkend)",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Adrenalin",
+        "group": "DirekteSympathomimetika - alphaXAR-/\u03b2XAR-Agonisten",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Dobutamin",
+        "group": "DirekteSympathomimetika - alphaXAR-/\u03b2XAR-Agonisten",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Noradrenalin",
+        "group": "DirekteSympathomimetika - alphaXAR-/\u03b2XAR-Agonisten",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Dopamin",
+        "group": "DirekteSympathomimetika - DXR-Agonist",
+        "color": "Crimson"
+    },
+    {
+        "word": "Ephedrin",
+        "group": "IndirekteSympathomimetika",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Pseudoephedrin",
+        "group": "IndirekteSympathomimetika",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Methylphenidat",
+        "group": "IndirekteSympathomimetika",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Clonidin",
+        "group": "\u03b12AR-Agonisten",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "\u03b1-Methyldopa",
+        "group": "\u03b12AR-Agonisten",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Moxonidin",
+        "group": "Imidazolrezeptor-Agonist",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Reserpin",
+        "group": "Antisympathotonika",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "Tizanidin",
+        "group": "ZentralesMuskelrelaxans",
+        "color": "Purple"
+    },
+    {
+        "word": "Urapidil",
+        "group": "\u03b11AR-Antagonisten",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Doxazosin",
+        "group": "\u03b11AR-Antagonisten",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Prazosin",
+        "group": "\u03b11AR-Antagonisten",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Terazosin",
+        "group": "\u03b11AR-Antagonisten",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Indoramin",
+        "group": "\u03b11AR-Antagonisten",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Tamsulosin",
+        "group": "\u03b11AR-Antagonisten",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Alfuzosin",
+        "group": "\u03b11AR-Antagonisten",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Phenoxybenzamin",
+        "group": "\u03b1AR-Antagonisten",
+        "color": "SeaGreen"
+    },
+    {
+        "word": "Yohimbin",
+        "group": "\u03b1AR-Antagonisten",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Metoprolol",
+        "group": "kardioselektiv Betablocker",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Atenolol",
+        "group": "kardioselektiv Betablocker",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Bisoprolol",
+        "group": "kardioselektiv Betablocker",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Nebivolol",
+        "group": "kardioselektiv Betablocker",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Propranolol",
+        "group": "unselektiv Betablocker",
+        "color": "Purple"
+    },
+    {
+        "word": "Timolol",
+        "group": "unselektiv Betablocker",
+        "color": "Purple"
+    },
+    {
+        "word": "Carvedilol",
+        "group": "unselektiv Betablocker",
+        "color": "Purple"
+    },
+    {
+        "word": "Sotalol",
+        "group": "unselektiv Betablocker",
+        "color": "Purple"
+    },
+    {
+        "word": "Nifedipin",
+        "group": "Ca2+-Antagonisten - NifedipinTyp",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Nimodipin",
+        "group": "Ca2+-Antagonisten - NifedipinTyp",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Nitrendipin",
+        "group": "Ca2+-Antagonisten - NifedipinTyp",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Lercanidipin",
+        "group": "Ca2+-Antagonisten - NifedipinTyp",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Amlodipin",
+        "group": "Ca2+-Antagonisten - NifedipinTyp",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Diltiazem",
+        "group": "Ca2+-Antagonisten - DiltiazemTyp",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Verapamil",
+        "group": "Ca2+-Antagonisten - VerapamilTyp",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Gallopamil",
+        "group": "Ca2+-Antagonisten - VerapamilTyp",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Enalapril",
+        "group": "ACE-Hemmer",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Lisinopril",
+        "group": "ACE-Hemmer",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Ramipril",
+        "group": "ACE-Hemmer",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Captopril",
+        "group": "ACE-Hemmer",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Valsartan",
+        "group": "Sartane",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Candesartan",
+        "group": "Sartane",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Losartan",
+        "group": "Sartane",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Aliskiren",
+        "group": "DirekteReninInhibitoren",
+        "color": "Maroon"
+    },
+    {
+        "word": "Domperidon",
+        "group": "Dopamin-Rezeptor-Antagonisten/Prokinetika",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Metoclopramid",
+        "group": "Dopamin-Rezeptor-Antagonisten/Prokinetika",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Ondansetron",
+        "group": "Serotonin-Rezeptor-Antagonisten",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Granisetron",
+        "group": "Serotonin-Rezeptor-Antagonisten",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Scopolamin",
+        "group": "Anticholinergika",
+        "color": "DarkKhaki"
+    },
+    {
+        "word": "Meclozin",
+        "group": "Antihistaminika",
+        "color": "PeachPuff"
+    },
+    {
+        "word": "Dimenhydrinat",
+        "group": "Antihistaminika",
+        "color": "PeachPuff"
+    },
+    {
+        "word": "Diphenhydramin",
+        "group": "Antihistaminika",
+        "color": "PeachPuff"
+    },
+    {
+        "word": "Aprepitant",
+        "group": "Neurokinin-Rezeptor-Antagonisten",
+        "color": "SlateBlue"
+    },
+    {
+        "word": "Dexamethason",
+        "group": "Glucocorticoide",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Gentamicin",
+        "group": "Aminoglykoside",
+        "color": "Brown"
+    },
+    {
+        "word": "Gentamycin",
+        "group": "Aminoglykoside",
+        "color": "Brown"
+    },
+    {
+        "word": "Tobramycin",
+        "group": "Aminoglykoside",
+        "color": "Brown"
+    },
+    {
+        "word": "Streptomycin",
+        "group": "Aminoglykoside",
+        "color": "Brown"
+    },
+    {
+        "word": "Vancomycin",
+        "group": "Glykopeptidantibiotika",
+        "color": "Teal"
+    },
+    {
+        "word": "Teicoplanin",
+        "group": "Glykopeptidantibiotika",
+        "color": "Teal"
+    },
+    {
+        "word": "Doxycyclin",
+        "group": "Tetracycline",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Tetracyclin",
+        "group": "Tetracycline",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Tigecyclin",
+        "group": "Glycylcyclin",
+        "color": "SpringGreen"
+    },
+    {
+        "word": "Clindamycin",
+        "group": "Lincosamide",
+        "color": "Gold"
+    },
+    {
+        "word": "Metronidazol",
+        "group": "Nitroimidazole",
+        "color": "Sienna"
+    },
+    {
+        "word": "Cotrimoxazol",
+        "group": "Sulfonamid + Dihydrofolatreduktase-Hemmer",
+        "color": "SandyBrown"
+    },
+    {
+        "word": "Fosfomycin",
+        "group": "Fosfomycin",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Linezolid",
+        "group": "Oxazolidinone",
+        "color": "RosyBrown"
+    },
+    {
+        "word": "Rifampicin",
+        "group": "Ansamycine",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Rifaximin",
+        "group": "Ansamycine",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Daptomycin",
+        "group": "Zyklische Lipopeptide",
+        "color": "BurlyWood"
+    },
+    {
+        "word": "Penicilline",
+        "group": "KlassischePenicilline",
+        "color": "Red"
+    },
+    {
+        "word": "Isoxazolylpenicillin",
+        "group": "Isoxazolylpenicilline",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Aminopenicillin",
+        "group": "Aminopenicilline",
+        "color": "Salmon"
+    },
+    {
+        "word": "Acylaminopenicillin",
+        "group": "Acylaminopenicilline",
+        "color": "Tomato"
+    },
+    {
+        "word": "Cephalosporin",
+        "group": "Cephalosporine",
+        "color": "Plum"
+    },
+    {
+        "word": "Carbapenem",
+        "group": "Carbapeneme",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Fluorchinolone",
+        "group": "Fluorchinolone",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Fluorchinolon",
+        "group": "Fluorchinolone",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Makrolid",
+        "group": "Makrolide",
+        "color": "Cyan"
+    },
+    {
+        "word": "Aminoglykosid",
+        "group": "Aminoglykoside",
+        "color": "Brown"
+    },
+    {
+        "word": "Glykopeptidantibiotika",
+        "group": "Glykopeptidantibiotika",
+        "color": "Teal"
+    },
+    {
+        "word": "Tetracyclin",
+        "group": "Tetracycline",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Glycylcyclin",
+        "group": "Glycylcyclin",
+        "color": "SpringGreen"
+    },
+    {
+        "word": "Lincosamid",
+        "group": "Lincosamide",
+        "color": "Gold"
+    },
+    {
+        "word": "Nitroimidazol",
+        "group": "Nitroimidazole",
+        "color": "Sienna"
+    },
+    {
+        "word": "Oxazolidinon",
+        "group": "Oxazolidinone",
+        "color": "RosyBrown"
+    },
+    {
+        "word": "Ansamycin",
+        "group": "Ansamycine",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Penicillin",
+        "group": "Klassische Penicilline",
+        "color": "Red"
+    },
+    {
+        "word": "Oxacillin",
+        "group": "Isoxazolylpenicilline (Staphylokokkenpenicilline)",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Flucloxacillin",
+        "group": "Isoxazolylpenicilline (Staphylokokkenpenicilline)",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Dicloxacillin",
+        "group": "Isoxazolylpenicilline (Staphylokokkenpenicilline)",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Methicillin",
+        "group": "Isoxazolylpenicilline (Staphylokokkenpenicilline)",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Amoxicillin",
+        "group": "Aminopenicilline",
+        "color": "Salmon"
+    },
+    {
+        "word": "Ampicillin",
+        "group": "Aminopenicilline",
+        "color": "Salmon"
+    },
+    {
+        "word": "Piperacillin",
+        "group": "Acylaminopenicilline",
+        "color": "Tomato"
+    },
+    {
+        "word": "Mezlocillin",
+        "group": "Acylaminopenicilline",
+        "color": "Tomato"
+    },
+    {
+        "word": "Amoxicillin_Clavulans\u00e4ure",
+        "group": "Aminopenicilline + \u03b2-Lactamase-Inhibitor",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Ampicillin_Sulbactam",
+        "group": "Aminopenicilline + \u03b2-Lactamase-Inhibitor",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Piperacillin_Tazobactam",
+        "group": "Acylaminopenicilline + \u03b2-Lactamase-Inhibitor",
+        "color": "LightSalmon"
+    },
+    {
+        "word": "Cefazolin",
+        "group": "Cephalosporine der 1. Generation",
+        "color": "Plum"
+    },
+    {
+        "word": "Cefalexin",
+        "group": "Cephalosporine der 1. Generation",
+        "color": "Plum"
+    },
+    {
+        "word": "Cefuroxim",
+        "group": "Cephalosporine der 2. Generation",
+        "color": "Orchid"
+    },
+    {
+        "word": "Cefotiam",
+        "group": "Cephalosporine der 2. Generation",
+        "color": "Orchid"
+    },
+    {
+        "word": "Ceftriaxon",
+        "group": "Cephalosporine der 3. Generation (3a)",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Cefotaxim",
+        "group": "Cephalosporine der 3. Generation (3a)",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Cefixim",
+        "group": "Cephalosporine der 3. Generation (3a)",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Ceftibuten",
+        "group": "Cephalosporine der 3. Generation (3a)",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Ceftazidim",
+        "group": "Cephalosporine der 3. Generation (3b)",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Cefepim",
+        "group": "Cephalosporine der 4. Generation",
+        "color": "Violet"
+    },
+    {
+        "word": "Ceftarolin",
+        "group": "Cephalosporine der 5. Generation",
+        "color": "Magenta"
+    },
+    {
+        "word": "Ceftobiprol",
+        "group": "Cephalosporine der 5. Generation",
+        "color": "Magenta"
+    },
+    {
+        "word": "Imipenem",
+        "group": "Carbapeneme",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Meropenem",
+        "group": "Carbapeneme",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Ertapenem",
+        "group": "Carbapeneme",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Norfloxacin",
+        "group": "Fluorchinolone Gruppe I",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Ciprofloxacin",
+        "group": "Fluorchinolone Gruppe II",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Ofloxacin",
+        "group": "Fluorchinolone Gruppe II",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Levofloxacin",
+        "group": "Fluorchinolone Gruppe III",
+        "color": "LightSeaGreen"
+    },
+    {
+        "word": "Moxifloxacin",
+        "group": "Fluorchinolone Gruppe IV",
+        "color": "LightSeaGreen"
+    },
+    {
+        "word": "Erythromycin",
+        "group": "Makrolide",
+        "color": "Cyan"
+    },
+    {
+        "word": "Azithromycin",
+        "group": "Makrolide",
+        "color": "Cyan"
+    },
+    {
+        "word": "Roxithromycin",
+        "group": "Makrolide",
+        "color": "Cyan"
+    },
+    {
+        "word": "Clarithromycin",
+        "group": "Makrolide",
+        "color": "Cyan"
+    },
+    {
+        "word": "Ramucirumab",
+        "group": "VEGFInhibitors",
+        "color": "MediumTurquoise"
+    },
+    {
+        "word": "Certolizumab",
+        "group": "TNFInhibitors",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "CiclosporinA",
+        "group": "CalcineurinInhibitors",
+        "color": "Teal"
+    },
+    {
+        "word": "Eisencarboxymaltose",
+        "group": "IronSupplements",
+        "color": "DarkRed"
+    },
+    {
+        "word": "LIduronidase",
+        "group": "EnzymeReplacementTherapy",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Corticosteroid",
+        "group": "Glucocorticoids",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Idelalisib",
+        "group": "PI3KInhibitors",
+        "color": "DarkCyan"
+    },
+    {
+        "word": "Naltrexon",
+        "group": "OpioidAntagonists",
+        "color": "MediumVioletRed"
+    },
+    {
+        "word": "FSH",
+        "group": "Gonadotropins",
+        "color": "Gold"
+    },
+    {
+        "word": "Lorazepam",
+        "group": "Benzodiazepines",
+        "color": "MediumSlateBlue"
+    },
+    {
+        "word": "Albumin",
+        "group": "PlasmaProteins",
+        "color": "Silver"
+    },
+    {
+        "word": "Zink",
+        "group": "Minerals",
+        "color": "DarkGray"
+    },
+    {
+        "word": "Triamcinolon",
+        "group": "Glucocorticoids",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Polidocanol",
+        "group": "LocalAnesthetics",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Thalidomid",
+        "group": "Immunomodulators",
+        "color": "DarkKhaki"
+    },
+    {
+        "word": "Octreotid",
+        "group": "SomatostatinAnalogs",
+        "color": "Plum"
+    },
+    {
+        "word": "Zoledronsaeure",
+        "group": "Bisphosphonates",
+        "color": "Brown"
+    },
+    {
+        "word": "Ursodeoxycholsaeure",
+        "group": "Choleretics",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Risdiplam",
+        "group": "SMN2SpliceModulators",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Azelainsaeure",
+        "group": "AntimicrobialAgents",
+        "color": "PaleTurquoise"
+    },
+    {
+        "word": "Arsentrioxid",
+        "group": "AntineoplasticAgents",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Lactulose",
+        "group": "Laxatives",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Interferon\u03b1",
+        "group": "Immunostimulants",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Elexacaftor",
+        "group": "CFTRModulators",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Ceftolozan",
+        "group": "Cephalosporins",
+        "color": "Plum"
+    },
+    {
+        "word": "Deferoxamin",
+        "group": "ChelatingAgents",
+        "color": "Sienna"
+    },
+    {
+        "word": "Maeusedornwurzel",
+        "group": "Phytotherapeutics",
+        "color": "YellowGreen"
+    },
+    {
+        "word": "Ethambutol",
+        "group": "Antituberculars",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Selexipag",
+        "group": "ProstacyclinAnalogs",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Albendazol",
+        "group": "Anthelmintics",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Eculizumab",
+        "group": "ComplementInhibitors",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Beclometason",
+        "group": "Glucocorticoids",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "TNF\u03b1",
+        "group": "TNFInhibitors",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Somatostatin",
+        "group": "SomatostatinAnalogs",
+        "color": "Plum"
+    },
+    {
+        "word": "Rifabutin",
+        "group": "Antibiotics",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Ethanol",
+        "group": "Solvents",
+        "color": "Silver"
+    },
+    {
+        "word": "Paracetamol",
+        "group": "Analgesics",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Colchicin",
+        "group": "AntigoutAgents",
+        "color": "Purple"
+    },
+    {
+        "word": "Pilocarpin",
+        "group": "DirectParasympathomimetics",
+        "color": "LightBlue"
+    },
+    {
+        "word": "NSAR",
+        "group": "NonSteroidalAntiinflammatoryDrugs",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Indometacin",
+        "group": "NonSteroidalAntiinflammatoryDrugs",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Afatinib",
+        "group": "TyrosineKinaseInhibitors",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Octenidin",
+        "group": "Antiseptics",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Ofatumumab",
+        "group": "CD20Inhibitor",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Flecainid",
+        "group": "Antiarrhythmics",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Isotretinoin",
+        "group": "Retinoids",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Diazepam",
+        "group": "Benzodiazepines",
+        "color": "MediumSlateBlue"
+    },
+    {
+        "word": "5Fluoruracil",
+        "group": "Cytostatics",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Thiouracil",
+        "group": "Thionamides",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Secukinumab",
+        "group": "IL17Inhibitors",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Glucagon",
+        "group": "Hormones",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Pyrazinamid",
+        "group": "Antituberculars",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Ciclosporin",
+        "group": "CalcineurinInhibitors",
+        "color": "Teal"
+    },
+    {
+        "word": "Diclofenac",
+        "group": "NonSteroidalAntiinflammatoryDrugs",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Chloramphenicol",
+        "group": "Antibiotics",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Adenosin",
+        "group": "Antiarrhythmics",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "rtPA",
+        "group": "Thrombolytics",
+        "color": "Crimson"
+    },
+    {
+        "word": "Orciprenaline",
+        "group": "Sympathomimetics",
+        "color": "Red"
+    },
+    {
+        "word": "TranexamicAcid",
+        "group": "Antifibrinolytics",
+        "color": "DarkViolet"
+    },
+    {
+        "word": "Allopurinol",
+        "group": "AntigoutAgents",
+        "color": "Purple"
+    },
+    {
+        "word": "Mitotane",
+        "group": "Cytostatics",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Rasburicase",
+        "group": "Uricostatics",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Ropeginterferon",
+        "group": "Interferons",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Antihistamines",
+        "group": "Antihistamines",
+        "color": "PeachPuff"
+    },
+    {
+        "word": "Sulfadiazine",
+        "group": "Sulfonamides",
+        "color": "DarkGray"
+    },
+    {
+        "word": "Fidaxomicin",
+        "group": "Macrolides",
+        "color": "Cyan"
+    },
+    {
+        "word": "Podophyllotoxin",
+        "group": "Antimitotics",
+        "color": "Khaki"
+    },
+    {
+        "word": "Griseofulvin",
+        "group": "Antifungals",
+        "color": "Khaki"
+    },
+    {
+        "word": "Succinylcholine",
+        "group": "MuscleRelaxants",
+        "color": "PaleTurquoise"
+    },
+    {
+        "word": "InterferonBeta",
+        "group": "Interferons",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Crizotinib",
+        "group": "ALKInhibitors",
+        "color": "LightSalmon"
+    },
+    {
+        "word": "Chlorhexidine",
+        "group": "Antiseptics",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Ketamine",
+        "group": "Anesthetics",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "LH",
+        "group": "Gonadotropins",
+        "color": "Gold"
+    },
+    {
+        "word": "Nitroglycerin",
+        "group": "Nitrates",
+        "color": "Navy"
+    },
+    {
+        "word": "Vinorelbine",
+        "group": "VincaAlkaloids",
+        "color": "Gold"
+    },
+    {
+        "word": "Pentostatin",
+        "group": "Antimetabolites",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Sulbactam",
+        "group": "BetaLactamaseInhibitors",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Bosentan",
+        "group": "EndothelinReceptorAntagonists",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Golimumab",
+        "group": "TNFInhibitors",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Rifampicin",
+        "group": "Ansamycins",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Quinagolide",
+        "group": "DopamineAgonists",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Leucovorin",
+        "group": "Chemotherapeutics",
+        "color": "LightGreen"
+    },
+    {
+        "word": "ClavulanicAcid",
+        "group": "BetaLactamaseInhibitors",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Cladribine",
+        "group": "Antimetabolites",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Sunitinib",
+        "group": "TyrosineKinaseInhibitors",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Glucocorticoids",
+        "group": "Glucocorticoids",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Clonazepam",
+        "group": "Benzodiazepines",
+        "color": "MediumSlateBlue"
+    },
+    {
+        "word": "Niclosamide",
+        "group": "Anthelmintics",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Nusinersen",
+        "group": "AntisenseOligonucleotides",
+        "color": "DarkKhaki"
+    },
+    {
+        "word": "Iloprost",
+        "group": "Prostaglandins",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Indacaterol",
+        "group": "Beta2Agonists",
+        "color": "Gold"
+    },
+    {
+        "word": "Osimertinib",
+        "group": "EGFRTyrosineKinaseInhibitors",
+        "color": "LightSalmon"
+    },
+    {
+        "word": "Insulin",
+        "group": "Insulins",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Amorolfine",
+        "group": "Antifungals",
+        "color": "Khaki"
+    },
+    {
+        "word": "Nintedanib",
+        "group": "TyrosineKinaseInhibitors",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Tezacaftor",
+        "group": "CFTRModulators",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Diazoxide",
+        "group": "Vasodilators",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "ZincSulfate",
+        "group": "Minerals",
+        "color": "DarkGray"
+    },
+    {
+        "word": "Ajmaline",
+        "group": "Antiarrhythmics",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Minoxidil",
+        "group": "Vasodilators",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Phenobarbital",
+        "group": "Barbiturates",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Terlipressin",
+        "group": "VasopressinAnalogs",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Isoniazid",
+        "group": "Antituberculosis",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Praziquantel",
+        "group": "Anthelmintics",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "HawthornExtract",
+        "group": "Phytotherapeutics",
+        "color": "YellowGreen"
+    },
+    {
+        "word": "Pyrazinamide",
+        "group": "Antituberculosis",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Imiquimod",
+        "group": "Immunomodulators",
+        "color": "DarkKhaki"
+    },
+    {
+        "word": "Desmopressin",
+        "group": "VasopressinAnalogs",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Aminopenicillins",
+        "group": "Aminopenicillins",
+        "color": "Salmon"
+    },
+    {
+        "word": "Mebendazole",
+        "group": "Anthelmintics",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Methadone",
+        "group": "OpioidAnalgesics",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Cephalosporin",
+        "group": "Cephalosporins",
+        "color": "Plum"
+    },
+    {
+        "word": "Bendamustine",
+        "group": "AlkylatingAgents",
+        "color": "Tomato"
+    },
+    {
+        "word": "Garlic",
+        "group": "Phytotherapeutics",
+        "color": "YellowGreen"
+    },
+    {
+        "word": "Levomethadone",
+        "group": "OpioidAnalgesics",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Gefitinib",
+        "group": "EGFRTyrosineKinaseInhibitors",
+        "color": "LightSalmon"
+    },
+    {
+        "word": "TNF\u03b1Antagonists",
+        "group": "TNFInhibitors",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Etomidate",
+        "group": "Anesthetics",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Temsirolimus",
+        "group": "mTORInhibitors",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Opioid",
+        "group": "OpioidAnalgesics",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Digitalis",
+        "group": "CardiacGlycosides",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "HCG",
+        "group": "Gonadotropins",
+        "color": "Gold"
+    },
+    {
+        "word": "EPO",
+        "group": "Erythropoietin",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Progestogen",
+        "group": "SexHormones",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Avibactam",
+        "group": "BetaLactamaseInhibitors",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Dihydralazine",
+        "group": "Vasodilators",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Protamine",
+        "group": "AnticoagulantAntagonists",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "HorseChestnut",
+        "group": "Phytotherapeutics",
+        "color": "YellowGreen"
+    },
+    {
+        "word": "Aspirin",
+        "group": "NSAIDs",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Penicillamine",
+        "group": "ChelatingAgents",
+        "color": "Sienna"
+    },
+    {
+        "word": "Miconazole",
+        "group": "Antifungals",
+        "color": "Khaki"
+    },
+    {
+        "word": "Bortezomib",
+        "group": "ProteasomeInhibitors",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "FreshFrozenPlasma",
+        "group": "BloodProducts",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Tazobactam",
+        "group": "BetaLactamaseInhibitors",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Minocycline",
+        "group": "Tetracyclines",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Midodrine",
+        "group": "Vasopressors",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Hydroxycobalamin",
+        "group": "VitaminB12",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Aprotinin",
+        "group": "Antifibrinolytics",
+        "color": "DarkViolet"
+    },
+    {
+        "word": "LDH",
+        "group": "Enzymes",
+        "color": "Orange"
+    },
+    {
+        "word": "Macitentan",
+        "group": "EndothelinReceptorAntagonists",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Reslizumab",
+        "group": "IL5Inhibitors",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Ibuprofen",
+        "group": "NSAIDs",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "LThyroxine",
+        "group": "ThyroidHormones",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Obinutuzumab",
+        "group": "CD20Inhibitor",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Sorafenib",
+        "group": "TyrosineKinaseInhibitors",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Clomiphene",
+        "group": "GnRHAntagonists",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "DHEA",
+        "group": "Steroids",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Colistin",
+        "group": "PolypeptideAntibiotics",
+        "color": "Teal"
+    },
+    {
+        "word": "Lumacaftor",
+        "group": "CFTRModulators",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "ProstaglandinE1",
+        "group": "Prostaglandins",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Procalcitonin",
+        "group": "Biomarkers",
+        "color": "SandyBrown"
+    },
+    {
+        "word": "Bisphosphonate",
+        "group": "Bisphosphonates",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Adapalene",
+        "group": "Retinoids",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Varenicline",
+        "group": "NicotinicReceptorAgonists",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Pyrimethamine",
+        "group": "Antiparasitics",
+        "color": "LightBlue"
+    },
+    {
+        "word": "DornaseAlpha",
+        "group": "Mucolytics",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "CiclosporinA",
+        "group": "CalcineurinInhibitors",
+        "color": "Teal"
+    },
+    {
+        "word": "GCSF",
+        "group": "GrowthFactors",
+        "color": "LightGreen"
+    },
+    {
+        "word": "Digoxin",
+        "group": "CardiacGlycosides",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Digitoxin",
+        "group": "CardiacGlycosides",
+        "color": "Sienna"
+    },
+    {
+        "word": "Tolvaptan",
+        "group": "VasopressinAntagonists",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Ivacaftor",
+        "group": "CFTRModulators",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Midazolam",
+        "group": "Benzodiazepines",
+        "color": "MediumSlateBlue"
+    },
+    {
+        "word": "Dronedarone",
+        "group": "Antiarrhythmics",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Ambrisentan",
+        "group": "EndothelinReceptorAntagonists",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Cangrelor",
+        "group": "P2Y12ReceptorAntagonists",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Pazopanib",
+        "group": "TyrosineKinaseInhibitors",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Buprenorphine",
+        "group": "OpioidAnalgesics",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Prilocaine",
+        "group": "LocalAnesthetics",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Ibrutinib",
+        "group": "BrutonTyrosineKinaseInhibitors",
+        "color": "Lavender"
+    },
+    {
+        "word": "Sildenafil",
+        "group": "PDE5Inhibitors",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Tadalafil",
+        "group": "PDE5Inhibitors",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Vardenafil",
+        "group": "PDE5Inhibitors",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Ethinylestradiol",
+        "group": "Estrogens",
+        "color": "DeepPink"
+    },
+    {
+        "word": "ClobetasolPropionate",
+        "group": "Glucocorticoids",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Ceritinib",
+        "group": "ALKInhibitors",
+        "color": "LightSalmon"
+    },
+    {
+        "word": "GnRH",
+        "group": "GonadotropinReleasingHormoneAgonists",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "MethyleneBlue",
+        "group": "Antidotes",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "OrnithineAspartate",
+        "group": "LiverTherapeutics",
+        "color": "Khaki"
+    },
+    {
+        "word": "Riociguat",
+        "group": "GuanylateCyclaseStimulators",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Tolbutamide",
+        "group": "Sulfonylureas",
+        "color": "Sienna"
+    },
+    {
+        "word": "Tazobactam",
+        "group": "BetaLactamaseInhibitors",
+        "color": "LightCoral"
+    },
+    {
+        "word": "FusidicAcid",
+        "group": "Antibiotics",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Cholesterol",
+        "group": "Sterols",
+        "color": "Gold"
+    },
+    {
+        "word": "Lanreotide",
+        "group": "SomatostatinAnalogs",
+        "color": "Plum"
+    },
+    {
+        "word": "InsulinGlargine",
+        "group": "LongActingInsulinAnalogs",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "InsulinDetemir",
+        "group": "LongActingInsulinAnalogs",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Adriamycin",
+        "group": "Anthracyclines",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Estrogen",
+        "group": "Estrogens",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Propafenone",
+        "group": "Antiarrhythmics",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Naproxen",
+        "group": "NSAIDs",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Filgrastim",
+        "group": "GrowthFactors",
+        "color": "LightGreen"
+    },
+    {
+        "word": "Morphine",
+        "group": "OpioidAnalgesics",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Ethambutol",
+        "group": "Antituberculosis",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Epinephrine",
+        "group": "Adrenaline",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Hydroxycarbamide",
+        "group": "Antimetabolites",
+        "color": "SpringGreen"
+    },
+    {
+        "word": "Ivermectin",
+        "group": "Antiparasitics",
+        "color": "LightBlue"
+    },
+    {
+        "word": "BenzoylPeroxide",
+        "group": "DermatologicalAgents",
+        "color": "PaleTurquoise"
+    },
+    {
+        "word": "Pamidronate",
+        "group": "Bisphosphonates",
+        "color": "Wheat"
+    },
+    {
+        "word": "Estrogens",
+        "group": "Estrogens",
+        "color": "DeepPink"
+    },
+    {
+        "word": "SodiumThiosulfate",
+        "group": "Antidotes",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Nitrate",
+        "group": "Nitrates",
+        "color": "Navy"
+    },
+    {
+        "word": "MycophenolateMofetil",
+        "group": "Immunosuppressants",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "FolinicAcid",
+        "group": "VitaminBComplex",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Retinoids",
+        "group": "Retinoids",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Nivolumab",
+        "group": "PD1Inhibitors",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Fludrocortisone",
+        "group": "Glucocorticoids",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Probenecid",
+        "group": "Uricosurics",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Pegloticase",
+        "group": "RecombinantUricase",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Paromomycin",
+        "group": "Antibiotics",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Phentolamine",
+        "group": "AlphaReceptorBlocker",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Perchlorate",
+        "group": "ThyroidSuppressants",
+        "color": "LightSeaGreen"
+    },
+    {
+        "word": "Procainamide",
+        "group": "Antiarrhythmics",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Hydralazine",
+        "group": "Vasodilators",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Methotrexate",
+        "group": "Antimetabolites",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Oxaliplatin",
+        "group": "PlatinumCompounds",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Irinotecan",
+        "group": "TopoisomeraseInhibitors",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Capecitabine",
+        "group": "Antimetabolites",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "ProstaglandinE1",
+        "group": "Prostaglandins",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Terlipressin",
+        "group": "VasopressinAnalog",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Ivacaftor",
+        "group": "CFTRPotentiators",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Lumacaftor",
+        "group": "CFTRCorrectors",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Imatinib",
+        "group": "TyrosineKinaseInhibitors",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Erlotinib",
+        "group": "TyrosineKinaseInhibitors",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Carfilzomib",
+        "group": "ProteasomeInhibitors",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Aflibercept",
+        "group": "VEGFInhibitors",
+        "color": "MediumTurquoise"
+    },
+    {
+        "word": "Vemurafenib",
+        "group": "RafV600EInhibitors",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Olaparib",
+        "group": "PARPInhibitors",
+        "color": "Pink"
+    },
+    {
+        "word": "Palbociclib",
+        "group": "CDKInhibitors",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Bevacizumab",
+        "group": "VEGFInhibitors",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Trastuzumab",
+        "group": "EGFRInhibitors",
+        "color": "MediumVioletRed"
+    },
+    {
+        "word": "Cetuximab",
+        "group": "EGFRInhibitors",
+        "color": "MediumVioletRed"
+    },
+    {
+        "word": "Pembrolizumab",
+        "group": "PD1Inhibitors",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Relatlimab",
+        "group": "LAG3Inhibitors",
+        "color": "DarkCyan"
+    },
+    {
+        "word": "Ipilimumab",
+        "group": "CTLA4Inhibitors",
+        "color": "Orange"
+    },
+    {
+        "word": "Lenalidomide",
+        "group": "UbiquitinationStimulators",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Panobinostat",
+        "group": "HDACInhibitors",
+        "color": "DarkOliveGreen"
+    },
+    {
+        "word": "Cyclophosphamide",
+        "group": "AlkylatingAgentsOxazaphosphorines",
+        "color": "Tomato"
+    },
+    {
+        "word": "Ifosfamide",
+        "group": "AlkylatingAgentsOxazaphosphorines",
+        "color": "Tomato"
+    },
+    {
+        "word": "Chlorambucil",
+        "group": "AlkylatingAgentsNLostDerivatives",
+        "color": "Red"
+    },
+    {
+        "word": "Melphalan",
+        "group": "AlkylatingAgentsNLostDerivatives",
+        "color": "Red"
+    },
+    {
+        "word": "Busulfan",
+        "group": "AlkylatingAgentsAlkylsulfonates",
+        "color": "Brown"
+    },
+    {
+        "word": "Temozolomide",
+        "group": "AlkylatingAgentsHydrazines",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Dacarbazine",
+        "group": "AlkylatingAgentsHydrazines",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Procarbazine",
+        "group": "AlkylatingAgentsHydrazines",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Cisplatin",
+        "group": "AlkylatingAgentsPlatinumBased",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Carboplatin",
+        "group": "AlkylatingAgentsPlatinumBased",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Oxaliplatin",
+        "group": "AlkylatingAgentsPlatinumBased",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Doxorubicin",
+        "group": "TopoisomeraseInhibitorsAnthracyclines",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Daunorubicin",
+        "group": "TopoisomeraseInhibitorsAnthracyclines",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Idarubicin",
+        "group": "TopoisomeraseInhibitorsAnthracyclines",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Epirubicin",
+        "group": "TopoisomeraseInhibitorsAnthracyclines",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Irinotecan",
+        "group": "TopoisomeraseInhibitorsTopoisomeraseI",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Topotecan",
+        "group": "TopoisomeraseInhibitorsTopoisomeraseI",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Etoposide",
+        "group": "TopoisomeraseInhibitorsTopoisomeraseII",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Vincristine",
+        "group": "MitoticInhibitorsVincaAlkaloids",
+        "color": "Gold"
+    },
+    {
+        "word": "Vinblastine",
+        "group": "MitoticInhibitorsVincaAlkaloids",
+        "color": "Gold"
+    },
+    {
+        "word": "Docetaxel",
+        "group": "MitoticInhibitorsTaxanes",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Paclitaxel",
+        "group": "MitoticInhibitorsTaxanes",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Methotrexate",
+        "group": "AntimetabolitesFolateAntagonists",
+        "color": "LawnGreen"
+    },
+    {
+        "word": "Pemetrexed",
+        "group": "AntimetabolitesFolateAntagonists",
+        "color": "LawnGreen"
+    },
+    {
+        "word": "Cytarabine",
+        "group": "AntimetabolitesPyrimidineAntagonists",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "5FU",
+        "group": "AntimetabolitesPyrimidineAntagonists",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Gemcitabine",
+        "group": "AntimetabolitesPyrimidineAntagonists",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Capecitabine",
+        "group": "AntimetabolitesPyrimidineAntagonists",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Azathioprine",
+        "group": "AntimetabolitesPurineAntagonists",
+        "color": "GreenYellow"
+    },
+    {
+        "word": "6Mercaptopurine",
+        "group": "AntimetabolitesPurineAntagonists",
+        "color": "GreenYellow"
+    },
+    {
+        "word": "Fludarabine",
+        "group": "AntimetabolitesPurineAntagonists",
+        "color": "GreenYellow"
+    },
+    {
+        "word": "Hydroxyurea",
+        "group": "AntimetabolitesRibonucleotideReductaseInhibitors",
+        "color": "SpringGreen"
+    },
+    {
+        "word": "Bleomycin",
+        "group": "OtherAntibiotics",
+        "color": "Plum"
+    },
+    {
+        "word": "ActinomycinD",
+        "group": "OtherAntibiotics",
+        "color": "Plum"
+    },
+    {
+        "word": "Mitomycin",
+        "group": "OtherAntibiotics",
+        "color": "Plum"
+    },
+    {
+        "word": "LAsparaginase",
+        "group": "OtherEnzymes",
+        "color": "Orange"
+    },
+    {
+        "word": "Methotrexate",
+        "group": "FolateAnalogue",
+        "color": "Crimson"
+    },
+    {
+        "word": "Azathioprine",
+        "group": "PurineAnalogue",
+        "color": "FireBrick"
+    },
+    {
+        "word": "MycophenolateMofetil",
+        "group": "InosineMonophosphateDehydrogenaseInhibitor",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Leflunomide",
+        "group": "DihydroorotateDehydrogenaseInhibitor",
+        "color": "DarkOliveGreen"
+    },
+    {
+        "word": "Cyclophosphamide",
+        "group": "AlkylatingAgent",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "CiclosporinA",
+        "group": "CalcineurinInhibitor",
+        "color": "Teal"
+    },
+    {
+        "word": "Tacrolimus",
+        "group": "CalcineurinInhibitor",
+        "color": "Teal"
+    },
+    {
+        "word": "Sirolimus",
+        "group": "mTORInhibitor",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Everolimus",
+        "group": "mTORInhibitor",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Fingolimod",
+        "group": "Sphingosine1PhosphateReceptorAgonist",
+        "color": "MediumTurquoise"
+    },
+    {
+        "word": "Infliximab",
+        "group": "TNFInhibitors",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Adalimumab",
+        "group": "TNFInhibitors",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Etanercept",
+        "group": "TNFInhibitors",
+        "color": "DarkTurquoise"
+    },
+    {
+        "word": "Muromonab",
+        "group": "CD3Inhibitor",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Rituximab",
+        "group": "CD20Inhibitor",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Basiliximab",
+        "group": "CD25Inhibitor",
+        "color": "SlateBlue"
+    },
+    {
+        "word": "Alemtuzumab",
+        "group": "CD52Inhibitor",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Abatacept",
+        "group": "CD80/86CD28InteractionInhibitor",
+        "color": "SpringGreen"
+    },
+    {
+        "word": "Natalizumab",
+        "group": "Integrin\u03b14Inhibitor",
+        "color": "SeaGreen"
+    },
+    {
+        "word": "Omalizumab",
+        "group": "IgEInhibitor",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Anakinra",
+        "group": "IL1RAntagonist",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Canakinumab",
+        "group": "IL1Inhibitor",
+        "color": "Crimson"
+    },
+    {
+        "word": "Mepolizumab",
+        "group": "IL5Inhibitor",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Tocilizumab",
+        "group": "IL6Inhibitor",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Ustekinumab",
+        "group": "IL12/23Inhibitor",
+        "color": "DarkViolet"
+    },
+    {
+        "word": "Mesalazine",
+        "group": "LeukotrieneAndProstaglandinSynthesisInhibitor",
+        "color": "MediumSpringGreen"
+    },
+    {
+        "word": "Sulfasalazine",
+        "group": "ProdrugMetabolizedToSulfapyridineAnd5ASA",
+        "color": "Turquoise"
+    },
+    {
+        "word": "Dimethylfumarate",
+        "group": "UnclearMechanismOfActionHCA2ReceptorBlocker",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "GlatiramerAcetate",
+        "group": "UnclearMechanismOfActionBindingToMHCII",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Hydroxychloroquine",
+        "group": "UnclearMechanismOfActionTollLikeReceptorInhibitor",
+        "color": "SandyBrown"
+    },
+    {
+        "word": "Chloroquine",
+        "group": "UnclearMechanismOfActionTollLikeReceptorInhibitor",
+        "color": "SandyBrown"
+    },
+    {
+        "word": "Tofacitinib",
+        "group": "JanusKinaseInhibitor",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Baricitinib",
+        "group": "JanusKinaseInhibitor",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Amiodarone",
+        "group": "ClassIIIAntiarrhythmic",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "GlycerolTrinitrate",
+        "group": "Nitrates",
+        "color": "Navy"
+    },
+    {
+        "word": "IsosorbideMononitrate",
+        "group": "Nitrates",
+        "color": "Navy"
+    },
+    {
+        "word": "IsosorbideDinitrate",
+        "group": "Nitrates",
+        "color": "Navy"
+    },
+    {
+        "word": "PentaerythritylTetranitrate",
+        "group": "Nitrates",
+        "color": "Navy"
+    },
+    {
+        "word": "Molsidomine",
+        "group": "Molsidomine",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Theophylline",
+        "group": "NonspecificPhosphodiesteraseInhibitors",
+        "color": "Gold"
+    },
+    {
+        "word": "Milrinone",
+        "group": "PhosphodiesteraseIIIInhibitors",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Enoximone",
+        "group": "PhosphodiesteraseIIIInhibitors",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Roflumilast",
+        "group": "PhosphodiesteraseIVInhibitors",
+        "color": "DarkGoldenrod"
+    },
+    {
+        "word": "Sildenafil",
+        "group": "PhosphodiesteraseVInhibitors",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Tadalafil",
+        "group": "PhosphodiesteraseVInhibitors",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Vardenafil",
+        "group": "PhosphodiesteraseVInhibitors",
+        "color": "PaleGoldenrod"
+    },
+    {
+        "word": "Digoxin",
+        "group": "CardiacGlycosides",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Digitoxin",
+        "group": "CardiacGlycosides",
+        "color": "Sienna"
+    },
+    {
+        "word": "AcetylsalicylicAcid",
+        "group": "IrreversibleCOXInhibitor",
+        "color": "Pink"
+    },
+    {
+        "word": "Clopidogrel",
+        "group": "ADPReceptorBlockersP2Y12RAntagonists",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Prasugrel",
+        "group": "ADPReceptorBlockersP2Y12RAntagonists",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Ticagrelor",
+        "group": "ADPReceptorBlockersP2Y12RAntagonists",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Ticlopidine",
+        "group": "ADPReceptorBlockersP2Y12RAntagonists",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Tirofiban",
+        "group": "GlycoproteinIIb/IIIaAntagonistsIVApplication",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Eptifibatide",
+        "group": "GlycoproteinIIb/IIIaAntagonistsIVApplication",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Abciximab",
+        "group": "GlycoproteinIIb/IIIaAntagonistsIVApplication",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Heparin",
+        "group": "UnfractionatedHeparin",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "UFH",
+        "group": "UnfractionatedHeparin",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "Dalteparin",
+        "group": "FractionatedHeparinLMWH",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Enoxaparin",
+        "group": "FractionatedHeparinLMWH",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Tinzaparin",
+        "group": "FractionatedHeparinLMWH",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Certoparin",
+        "group": "FractionatedHeparinLMWH",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "LMWH",
+        "group": "FractionatedHeparinLMWH",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Fondaparinux",
+        "group": "Heparinoids",
+        "color": "Orchid"
+    },
+    {
+        "word": "Danaparoid",
+        "group": "Heparinoids",
+        "color": "Orchid"
+    },
+    {
+        "word": "Bivalirudin",
+        "group": "RecombinantHirudin",
+        "color": "Violet"
+    },
+    {
+        "word": "Desirudin",
+        "group": "RecombinantHirudin",
+        "color": "Violet"
+    },
+    {
+        "word": "Lepirudin",
+        "group": "RecombinantHirudin",
+        "color": "Violet"
+    },
+    {
+        "word": "Argatroban",
+        "group": "SyntheticLArginineDerivative",
+        "color": "Plum"
+    },
+    {
+        "word": "Phenprocoumon",
+        "group": "VitaminKAntagonistsCoumarins",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Warfarin",
+        "group": "VitaminKAntagonistsCoumarins",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Dabigatran",
+        "group": "OralDirectThrombinInhibitors",
+        "color": "Green"
+    },
+    {
+        "word": "Apixaban",
+        "group": "OralDirectFactorXaInhibitors",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Rivaroxaban",
+        "group": "OralDirectFactorXaInhibitors",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Edoxaban",
+        "group": "OralDirectFactorXaInhibitors",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Acetazolamide",
+        "group": "CarbonicAnhydraseInhibitors",
+        "color": "Gold"
+    },
+    {
+        "word": "Mannitol",
+        "group": "OsmoticDiuretics",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Glycerin",
+        "group": "OsmoticDiuretics",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Sorbitol",
+        "group": "OsmoticDiuretics",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Hydrochlorothiazide",
+        "group": "Thiazides",
+        "color": "DarkSlateGray"
+    },
+    {
+        "word": "Xipamide",
+        "group": "Thiazides",
+        "color": "DarkSlateGray"
+    },
+    {
+        "word": "Chlorthalidone",
+        "group": "Thiazides",
+        "color": "DarkSlateGray"
+    },
+    {
+        "word": "Furosemide",
+        "group": "LoopDiuretics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Torsemide",
+        "group": "LoopDiuretics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Bumetanide",
+        "group": "LoopDiuretics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Piretanide",
+        "group": "LoopDiuretics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "EtacrynicAcid",
+        "group": "LoopDiuretics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Etozoline",
+        "group": "LoopDiuretics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Eplerenone",
+        "group": "MineralocorticoidReceptorAntagonists",
+        "color": "LightGreen"
+    },
+    {
+        "word": "Spironolactone",
+        "group": "MineralocorticoidReceptorAntagonists",
+        "color": "LightGreen"
+    },
+    {
+        "word": "Triamterene",
+        "group": "PotassiumSparingDiuretics",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Amiloride",
+        "group": "PotassiumSparingDiuretics",
+        "color": "PaleGreen"
+    },
+    {
+        "word": "Dimetindene",
+        "group": "FirstGenerationH1Antagonists",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Diphenhydramine",
+        "group": "FirstGenerationH1Antagonists",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Meclozine",
+        "group": "FirstGenerationH1Antagonists",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Promethazine",
+        "group": "FirstGenerationH1Antagonists",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Clemastine",
+        "group": "FirstGenerationH1Antagonists",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Dimenhydrinate",
+        "group": "FirstGenerationH1Antagonists",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Loratadine",
+        "group": "SecondGenerationH1Antagonists",
+        "color": "Salmon"
+    },
+    {
+        "word": "Cetirizine",
+        "group": "SecondGenerationH1Antagonists",
+        "color": "Salmon"
+    },
+    {
+        "word": "Azelastine",
+        "group": "SecondGenerationH1Antagonists",
+        "color": "Salmon"
+    },
+    {
+        "word": "Fexofenadine",
+        "group": "SecondGenerationH1Antagonists",
+        "color": "Salmon"
+    },
+    {
+        "word": "Ranitidine",
+        "group": "H2Antagonists",
+        "color": "Crimson"
+    },
+    {
+        "word": "Cimetidine",
+        "group": "H2Antagonists",
+        "color": "Crimson"
+    },
+    {
+        "word": "Cortisol",
+        "group": "Glucocorticoids",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Hydrocortisone",
+        "group": "Glucocorticoids",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Prednisolone",
+        "group": "Glucocorticoids",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Prednisone",
+        "group": "Glucocorticoids",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Dexamethasone",
+        "group": "Glucocorticoids",
+        "color": "Navy"
+    },
+    {
+        "word": "Betamethasone",
+        "group": "Glucocorticoids",
+        "color": "Navy"
+    },
+    {
+        "word": "Cortisone",
+        "group": "Glucocorticoids",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Methylprednisolone",
+        "group": "Glucocorticoids",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Budesonide",
+        "group": "Glucocorticoids",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Fluticasone",
+        "group": "Glucocorticoids",
+        "color": "CornflowerBlue"
+    },
+    {
+        "word": "Omeprazole",
+        "group": "ProtonPumpInhibitors",
+        "color": "Orange"
+    },
+    {
+        "word": "Pantoprazole",
+        "group": "ProtonPumpInhibitors",
+        "color": "Orange"
+    },
+    {
+        "word": "Esomeprazole",
+        "group": "ProtonPumpInhibitors",
+        "color": "Orange"
+    },
+    {
+        "word": "PPI",
+        "group": "ProtonPumpInhibitors",
+        "color": "Orange"
+    },
+    {
+        "word": "Atorvastatin",
+        "group": "Statins",
+        "color": "Gold"
+    },
+    {
+        "word": "Fluvastatin",
+        "group": "Statins",
+        "color": "Gold"
+    },
+    {
+        "word": "Lovastatin",
+        "group": "Statins",
+        "color": "Gold"
+    },
+    {
+        "word": "Pravastatin",
+        "group": "Statins",
+        "color": "Gold"
+    },
+    {
+        "word": "Rosuvastatin",
+        "group": "Statins",
+        "color": "Gold"
+    },
+    {
+        "word": "Simvastatin",
+        "group": "Statins",
+        "color": "Gold"
+    },
+    {
+        "word": "Bezafibrate",
+        "group": "Fibrates",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Fenofibrate",
+        "group": "Fibrates",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Gemfibrozil",
+        "group": "Fibrates",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Ezetimibe",
+        "group": "CholesterolAbsorptionInhibitor",
+        "color": "Lime"
+    },
+    {
+        "word": "Evolocumab",
+        "group": "PCSK9Inhibitors",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Alirocumab",
+        "group": "PCSK9Inhibitors",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Colestyramine",
+        "group": "AnionExchangeResins",
+        "color": "DarkGray"
+    },
+    {
+        "word": "Colesevelam",
+        "group": "AnionExchangeResins",
+        "color": "DarkGray"
+    },
+    {
+        "word": "Metformin",
+        "group": "Biguanides",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Glibenclamide",
+        "group": "Sulfonylureas",
+        "color": "Sienna"
+    },
+    {
+        "word": "Glimepiride",
+        "group": "Sulfonylureas",
+        "color": "Sienna"
+    },
+    {
+        "word": "Nateglinide",
+        "group": "Glinides",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Repaglinide",
+        "group": "Glinides",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Saxagliptin",
+        "group": "DPP4Inhibitors",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Sitagliptin",
+        "group": "DPP4Inhibitors",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Exenatide",
+        "group": "GLP1RAgonists",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Liraglutide",
+        "group": "GLP1RAgonists",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Albiglutide",
+        "group": "GLP1RAgonists",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Dapagliflozin",
+        "group": "SGLT2Inhibitors",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "Empagliflozin",
+        "group": "SGLT2Inhibitors",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "Ertugliflozin",
+        "group": "SGLT2Inhibitors",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "Acarbose",
+        "group": "AlphaGlucosidaseInhibitors",
+        "color": "Pink"
+    },
+    {
+        "word": "Pioglitazone",
+        "group": "Thiazolidinediones",
+        "color": "MediumVioletRed"
+    },
+    {
+        "word": "RegularInsulin",
+        "group": "RegularInsulin",
+        "color": "MediumSlateBlue"
+    },
+    {
+        "word": "InsulinLispro",
+        "group": "FastActingInsulinAnalogs",
+        "color": "SlateBlue"
+    },
+    {
+        "word": "InsulinAspart",
+        "group": "FastActingInsulinAnalogs",
+        "color": "SlateBlue"
+    },
+    {
+        "word": "InsulinGlulisine",
+        "group": "FastActingInsulinAnalogs",
+        "color": "SlateBlue"
+    },
+    {
+        "word": "NPHInsulins",
+        "group": "IntermediateActingInsulins",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "InsulinDetemir",
+        "group": "LongActingInsulinAnalogs",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "InsulinDegludec",
+        "group": "LongActingInsulinAnalogs",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "InsulinGlargine",
+        "group": "LongActingInsulinAnalogs",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "CombinationInsulins",
+        "group": "CombinationInsulins",
+        "color": "Indigo"
+    },
+    {
+        "word": "Alendronate",
+        "group": "Bisphosphonates",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Risedronate",
+        "group": "Bisphosphonates",
+        "color": "SandyBrown"
+    },
+    {
+        "word": "Zoledronate",
+        "group": "Bisphosphonates",
+        "color": "Brown"
+    },
+    {
+        "word": "Ibandronate",
+        "group": "Bisphosphonates",
+        "color": "Tan"
+    },
+    {
+        "word": "Clodronate",
+        "group": "Bisphosphonates",
+        "color": "Sienna"
+    },
+    {
+        "word": "Pamidronate",
+        "group": "Bisphosphonates",
+        "color": "Wheat"
+    },
+    {
+        "word": "Tiludronate",
+        "group": "Bisphosphonates",
+        "color": "Khaki"
+    },
+    {
+        "word": "Thiamazole",
+        "group": "Thionamides",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Carbimazole",
+        "group": "Thionamides",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Propylthiouracil",
+        "group": "Thionamides",
+        "color": "DarkRed"
+    },
+    {
+        "word": "SodiumPerchlorate",
+        "group": "Perchlorates",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Lithium",
+        "group": "Lithium",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Iodide",
+        "group": "Iodide",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Imidazoles",
+        "group": "Imidazoles",
+        "color": "Crimson"
+    },
+    {
+        "word": "Clotrimazole",
+        "group": "Imidazoles",
+        "color": "Crimson"
+    },
+    {
+        "word": "Ketoconazole",
+        "group": "Imidazoles",
+        "color": "Crimson"
+    },
+    {
+        "word": "Bifonazole",
+        "group": "Imidazoles",
+        "color": "Crimson"
+    },
+    {
+        "word": "Triazoles",
+        "group": "Triazoles",
+        "color": "Navy"
+    },
+    {
+        "word": "Fluconazole",
+        "group": "Triazoles",
+        "color": "Navy"
+    },
+    {
+        "word": "Voriconazole",
+        "group": "Triazoles",
+        "color": "Navy"
+    },
+    {
+        "word": "Itraconazole",
+        "group": "Triazoles",
+        "color": "Navy"
+    },
+    {
+        "word": "Posaconazole",
+        "group": "Triazoles",
+        "color": "Navy"
+    },
+    {
+        "word": "Polyene Antifungals",
+        "group": "Polyene Antifungals",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Amphotericin B",
+        "group": "Polyene Antifungals",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Nystatin",
+        "group": "Polyene Antifungals",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Echinocandins",
+        "group": "Echinocandins",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Caspofungin",
+        "group": "Echinocandins",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Anidulafungin",
+        "group": "Echinocandins",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Micafungin",
+        "group": "Echinocandins",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Hydroxypyridone Derivatives",
+        "group": "Hydroxypyridone Derivatives",
+        "color": "Gold"
+    },
+    {
+        "word": "Ciclopirox",
+        "group": "Hydroxypyridone Derivatives",
+        "color": "Gold"
+    },
+    {
+        "word": "Allylamines",
+        "group": "Allylamines",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Terbinafine",
+        "group": "Allylamines",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Haloperidol",
+        "group": "High Potency Antipsychotics",
+        "color": "Red"
+    },
+    {
+        "word": "Benperidol",
+        "group": "High Potency Antipsychotics",
+        "color": "Red"
+    },
+    {
+        "word": "Flupentixol",
+        "group": "High Potency Antipsychotics",
+        "color": "Red"
+    },
+    {
+        "word": "Fluspirilene",
+        "group": "High Potency Antipsychotics",
+        "color": "Red"
+    },
+    {
+        "word": "Fluphenazine",
+        "group": "High Potency Antipsychotics",
+        "color": "Red"
+    },
+    {
+        "word": "Perphenazine",
+        "group": "High Potency Antipsychotics",
+        "color": "Red"
+    },
+    {
+        "word": "Chlorpromazine",
+        "group": "Medium Potency Antipsychotics",
+        "color": "Crimson"
+    },
+    {
+        "word": "Melperone",
+        "group": "Low Potency Antipsychotics",
+        "color": "Orange"
+    },
+    {
+        "word": "Levomepromazine",
+        "group": "Low Potency Antipsychotics",
+        "color": "Orange"
+    },
+    {
+        "word": "Chlorprothixene",
+        "group": "Low Potency Antipsychotics",
+        "color": "Orange"
+    },
+    {
+        "word": "Pipamperone",
+        "group": "Low Potency Antipsychotics",
+        "color": "Orange"
+    },
+    {
+        "word": "Promethazine",
+        "group": "Low Potency Antipsychotics",
+        "color": "Orange"
+    },
+    {
+        "word": "Amisulpride",
+        "group": "Atypical Antipsychotics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Aripiprazole",
+        "group": "Atypical Antipsychotics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Clozapine",
+        "group": "Atypical Antipsychotics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Olanzapine",
+        "group": "Atypical Antipsychotics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Quetiapine",
+        "group": "Atypical Antipsychotics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Risperidone",
+        "group": "Atypical Antipsychotics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Ziprasidone",
+        "group": "Atypical Antipsychotics",
+        "color": "DarkGreen"
+    },
+    {
+        "word": "Citalopram",
+        "group": "SSRIs",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Escitalopram",
+        "group": "SSRIs",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Sertraline",
+        "group": "SSRIs",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Fluvoxamine",
+        "group": "SSRIs",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Fluoxetine",
+        "group": "SSRIs",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Paroxetine",
+        "group": "SSRIs",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Duloxetine",
+        "group": "SNRIs",
+        "color": "Gold"
+    },
+    {
+        "word": "Milnacipran",
+        "group": "SNRIs",
+        "color": "Gold"
+    },
+    {
+        "word": "Venlafaxine",
+        "group": "SNRIs",
+        "color": "Gold"
+    },
+    {
+        "word": "Bupropion",
+        "group": "NDRIs",
+        "color": "DarkCyan"
+    },
+    {
+        "word": "Amitriptyline",
+        "group": "TCA",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Doxepin",
+        "group": "TCA",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Imipramine",
+        "group": "TCA",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Clomipramine",
+        "group": "TCA",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Nortriptyline",
+        "group": "TCA",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Trimipramine",
+        "group": "TCA",
+        "color": "RedOrange"
+    },
+    {
+        "word": "Moclobemide",
+        "group": "MAOIs",
+        "color": "Violet"
+    },
+    {
+        "word": "Tranylcypromine",
+        "group": "MAOIs",
+        "color": "Violet"
+    },
+    {
+        "word": "Mirtazapine",
+        "group": "Alpha-2 Antagonist",
+        "color": "Coral"
+    },
+    {
+        "word": "Agomelatine",
+        "group": "Melatonin Analogues",
+        "color": "Teal"
+    },
+    {
+        "word": "St. John's Wort",
+        "group": "Phytotherapeutics",
+        "color": "YellowGreen"
+    },
+    {
+        "word": "Lithium",
+        "group": "Lithium",
+        "color": "LawnGreen"
+    },
+    {
+        "word": "Carbamazepine",
+        "group": "Typical Antiepileptics",
+        "color": "Tomato"
+    },
+    {
+        "word": "Ethosuximide",
+        "group": "Typical Antiepileptics",
+        "color": "DarkCyan"
+    },
+    {
+        "word": "Phenytoin",
+        "group": "Typical Antiepileptics",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Valproate",
+        "group": "Typical Antiepileptics",
+        "color": "DarkMagenta"
+    },
+    {
+        "word": "Gabapentin",
+        "group": "Newer Anticonvulsants",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Lacosamide",
+        "group": "Newer Anticonvulsants",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Lamotrigine",
+        "group": "Newer Anticonvulsants",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Levetiracetam",
+        "group": "Newer Anticonvulsants",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Pregabalin",
+        "group": "Newer Anticonvulsants",
+        "color": "OrangeRed"
+    },
+    {
+        "word": "Topiramate",
+        "group": "Newer Anticonvulsants",
+        "color": "Crimson"
+    },
+    {
+        "word": "Vigabatrin",
+        "group": "Newer Anticonvulsants",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "L-Dopa",
+        "group": "Dopamine Precursors",
+        "color": "Blue"
+    },
+    {
+        "word": "Carbidopa",
+        "group": "Dopamine Precursors",
+        "color": "Blue"
+    },
+    {
+        "word": "Benserazide",
+        "group": "Dopamine Precursors",
+        "color": "Blue"
+    },
+    {
+        "word": "Selegiline",
+        "group": "MAO-B Inhibitors",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Rasagiline",
+        "group": "MAO-B Inhibitors",
+        "color": "DarkBlue"
+    },
+    {
+        "word": "Ropinirole",
+        "group": "Non-Ergot Dopamine Agonists",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Pramipexole",
+        "group": "Non-Ergot Dopamine Agonists",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Apomorphine",
+        "group": "Non-Ergot Dopamine Agonists",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Rotigotine",
+        "group": "Non-Ergot Dopamine Agonists",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Piribedil",
+        "group": "Non-Ergot Dopamine Agonists",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Bromocriptine",
+        "group": "Ergot Dopamine Agonists",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Cabergoline",
+        "group": "Ergot Dopamine Agonists",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Opicapone",
+        "group": "COMT Inhibitors",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Entacapone",
+        "group": "COMT Inhibitors",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Tolcapone",
+        "group": "COMT Inhibitors",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Amantadine",
+        "group": "NMDA Antagonists",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Budipine",
+        "group": "NMDA Antagonists",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Biperiden",
+        "group": "Anticholinergics",
+        "color": "CadetBlue"
+    },
+    {
+        "word": "Aciclovir",
+        "group": "DNA Polymerase Inhibitors",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Valaciclovir",
+        "group": "DNA Polymerase Inhibitors",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Ganciclovir",
+        "group": "DNA Polymerase Inhibitors",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Foscarnet",
+        "group": "DNA Polymerase Inhibitors",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Fomivirsen",
+        "group": "Antisense Oligonucleotide",
+        "color": "DarkKhaki"
+    },
+    {
+        "word": "Amantadine",
+        "group": "Ion Channel Blockers",
+        "color": "LightSeaGreen"
+    },
+    {
+        "word": "Oseltamivir",
+        "group": "Neuraminidase Inhibitors",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Zanamivir",
+        "group": "Neuraminidase Inhibitors",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Tenofovir",
+        "group": "NtRTIs",
+        "color": "Sienna"
+    },
+    {
+        "word": "Adefovir",
+        "group": "NtRTIs",
+        "color": "Sienna"
+    },
+    {
+        "word": "Entecavir",
+        "group": "NsRTIs",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Lamivudine",
+        "group": "NsRTIs",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "Telbivudine",
+        "group": "NsRTIs",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "PEG-Interferon \u03b1",
+        "group": "PEG-Interferon-\u03b1",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Glecaprevir",
+        "group": "Antiviral Drugs Against Hepatitis C",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Grazoprevir",
+        "group": "Antiviral Drugs Against Hepatitis C",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Voxilaprevir",
+        "group": "Antiviral Drugs Against Hepatitis C",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Paritaprevir",
+        "group": "Antiviral Drugs Against Hepatitis C",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Simeprevir",
+        "group": "Antiviral Drugs Against Hepatitis C",
+        "color": "DarkSlateBlue"
+    },
+    {
+        "word": "Telaprevir",
+        "group": "NS3 Protease Inhibitors",
+        "color": "Teal"
+    },
+    {
+        "word": "Boceprevir",
+        "group": "NS3 Protease Inhibitors",
+        "color": "Teal"
+    },
+    {
+        "word": "Ledipasvir",
+        "group": "NS5A Inhibitors",
+        "color": "Cyan"
+    },
+    {
+        "word": "Elbasvir",
+        "group": "NS5A Inhibitors",
+        "color": "Cyan"
+    },
+    {
+        "word": "Velpatasvir",
+        "group": "NS5A Inhibitors",
+        "color": "Cyan"
+    },
+    {
+        "word": "Pibrentasvir",
+        "group": "NS5A Inhibitors",
+        "color": "Cyan"
+    },
+    {
+        "word": "Ombitasvir",
+        "group": "NS5A Inhibitors",
+        "color": "Cyan"
+    },
+    {
+        "word": "Daclatasvir",
+        "group": "NS5A Inhibitors",
+        "color": "Cyan"
+    },
+    {
+        "word": "Sofosbuvir",
+        "group": "NS5B Inhibitors",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Dasabuvir",
+        "group": "NS5B Inhibitors",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Ribavirin",
+        "group": "Nucleoside Analog (RNA Polymerase Inhibitor)",
+        "color": "FireBrick"
+    },
+    {
+        "word": "NtRTIs",
+        "group": "NtRTIs",
+        "color": "Sienna"
+    },
+    {
+        "word": "NsRTIs",
+        "group": "NsRTIs",
+        "color": "DeepSkyBlue"
+    },
+    {
+        "word": "PEG-Interferon \u03b1",
+        "group": "PEG-Interferon-\u03b1",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "NS3 Protease Inhibitors",
+        "group": "NS3 Protease Inhibitors",
+        "color": "Teal"
+    },
+    {
+        "word": "NS5A Inhibitors",
+        "group": "NS5A Inhibitors",
+        "color": "Cyan"
+    },
+    {
+        "word": "NS5B Inhibitors",
+        "group": "NS5B Inhibitors",
+        "color": "MediumAquamarine"
+    },
+    {
+        "word": "Pilocarpine",
+        "group": "Direct Parasympathomimetics",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Carbachol",
+        "group": "Direct Parasympathomimetics",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Bethanechol",
+        "group": "Direct Parasympathomimetics",
+        "color": "LightBlue"
+    },
+    {
+        "word": "Neostigmine",
+        "group": "Indirect Parasympathomimetics",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Pyridostigmine",
+        "group": "Indirect Parasympathomimetics",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Distigmine",
+        "group": "Indirect Parasympathomimetics",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Physostigmine",
+        "group": "Indirect Parasympathomimetics",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Edrophonium",
+        "group": "Indirect Parasympathomimetics",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Donepezil",
+        "group": "Antidementia Agents",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Rivastigmine",
+        "group": "Antidementia Agents",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Galantamine",
+        "group": "Antidementia Agents",
+        "color": "SteelBlue"
+    },
+    {
+        "word": "Insecticide",
+        "group": "Irreversible Acetylcholinesterase Inhibition",
+        "color": "RoyalBlue"
+    },
+    {
+        "word": "Atropine",
+        "group": "Parasympatholytics - Tertiary Amines",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Scopolamine",
+        "group": "Parasympatholytics - Tertiary Amines",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Tropicamide",
+        "group": "Parasympatholytics - Tertiary Amines",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Biperiden",
+        "group": "Parasympatholytics - Tertiary Amines",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Oxybutynin",
+        "group": "Parasympatholytics - Tertiary Amines",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Darifenacin",
+        "group": "Parasympatholytics - Tertiary Amines",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Tolterodine",
+        "group": "Parasympatholytics - Tertiary Amines",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Butylscopolamine",
+        "group": "Parasympatholytics - Quaternary Amines",
+        "color": "Orange"
+    },
+    {
+        "word": "Ipratropium Bromide",
+        "group": "Parasympatholytics - Quaternary Amines",
+        "color": "Orange"
+    },
+    {
+        "word": "Tiotropium Bromide",
+        "group": "Parasympatholytics - Quaternary Amines",
+        "color": "Orange"
+    },
+    {
+        "word": "Salbutamol",
+        "group": "Beta2 Sympathomimetics - Short",
+        "color": "Red"
+    },
+    {
+        "word": "Fenoterol",
+        "group": "Beta2 Sympathomimetics - Short",
+        "color": "Red"
+    },
+    {
+        "word": "Reproterol",
+        "group": "Beta2 Sympathomimetics - Short",
+        "color": "Red"
+    },
+    {
+        "word": "Terbutaline",
+        "group": "Beta2 Sympathomimetics - Short",
+        "color": "Red"
+    },
+    {
+        "word": "Formoterol",
+        "group": "Beta2 Sympathomimetics - Long",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Salmeterol",
+        "group": "Beta2 Sympathomimetics - Long",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Phenylephrine",
+        "group": "Direct Sympathomimetics - alpha1 Adrenergic Receptor Agonists (local acting)",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Xylometazoline",
+        "group": "Direct Sympathomimetics - alpha1 Adrenergic Receptor Agonists (local acting)",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Epinephrine",
+        "group": "Direct Sympathomimetics - alpha and beta Adrenergic Receptor Agonists",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Dobutamine",
+        "group": "Direct Sympathomimetics - alpha and beta Adrenergic Receptor Agonists",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Norepinephrine",
+        "group": "Direct Sympathomimetics - alpha and beta Adrenergic Receptor Agonists",
+        "color": "FireBrick"
+    },
+    {
+        "word": "Dopamine",
+        "group": "Direct Sympathomimetics - Dopamine Receptor Agonist",
+        "color": "Crimson"
+    },
+    {
+        "word": "Ephedrine",
+        "group": "Indirect Sympathomimetics",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Pseudoephedrine",
+        "group": "Indirect Sympathomimetics",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Methylphenidate",
+        "group": "Indirect Sympathomimetics",
+        "color": "PaleVioletRed"
+    },
+    {
+        "word": "Clonidine",
+        "group": "alpha2 Adrenergic Receptor Agonists",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Methyldopa",
+        "group": "alpha2 Adrenergic Receptor Agonists",
+        "color": "MediumOrchid"
+    },
+    {
+        "word": "Moxonidine",
+        "group": "Imidazoline Receptor Agonist",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Reserpine",
+        "group": "Antisympathotonics",
+        "color": "DarkOrchid"
+    },
+    {
+        "word": "Tizanidine",
+        "group": "Central Muscle Relaxant",
+        "color": "Purple"
+    },
+    {
+        "word": "Urapidil",
+        "group": "alpha1 Adrenergic Receptor Antagonists",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Doxazosin",
+        "group": "alpha1 Adrenergic Receptor Antagonists",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Prazosin",
+        "group": "alpha1 Adrenergic Receptor Antagonists",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Terazosin",
+        "group": "alpha1 Adrenergic Receptor Antagonists",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Indoramin",
+        "group": "alpha1 Adrenergic Receptor Antagonists",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Tamsulosin",
+        "group": "alpha1 Adrenergic Receptor Antagonists",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Alfuzosin",
+        "group": "alpha1 Adrenergic Receptor Antagonists",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Phenoxybenzamine",
+        "group": "Alpha Adrenergic Receptor Antagonists",
+        "color": "SeaGreen"
+    },
+    {
+        "word": "Yohimbine",
+        "group": "Alpha Adrenergic Receptor Antagonists",
+        "color": "ForestGreen"
+    },
+    {
+        "word": "Metoprolol",
+        "group": "Cardioselective Beta Blockers",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Atenolol",
+        "group": "Cardioselective Beta Blockers",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Bisoprolol",
+        "group": "Cardioselective Beta Blockers",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Nebivolol",
+        "group": "Cardioselective Beta Blockers",
+        "color": "DeepPink"
+    },
+    {
+        "word": "Propranolol",
+        "group": "Non-selective Beta Blockers",
+        "color": "Purple"
+    },
+    {
+        "word": "Timolol",
+        "group": "Non-selective Beta Blockers",
+        "color": "Purple"
+    },
+    {
+        "word": "Carvedilol",
+        "group": "Non-selective Beta Blockers",
+        "color": "Purple"
+    },
+    {
+        "word": "Sotalol",
+        "group": "Non-selective Beta Blockers",
+        "color": "Purple"
+    },
+    {
+        "word": "Nifedipine",
+        "group": "Calcium Channel Blockers - Nifedipine Type",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Nimodipine",
+        "group": "Calcium Channel Blockers - Nifedipine Type",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Nitrendipine",
+        "group": "Calcium Channel Blockers - Nifedipine Type",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Lercanidipine",
+        "group": "Calcium Channel Blockers - Nifedipine Type",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Amlodipine",
+        "group": "Calcium Channel Blockers - Nifedipine Type",
+        "color": "LightSkyBlue"
+    },
+    {
+        "word": "Diltiazem",
+        "group": "Calcium Channel Blockers - Diltiazem Type",
+        "color": "SkyBlue"
+    },
+    {
+        "word": "Verapamil",
+        "group": "Calcium Channel Blockers - Verapamil Type",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Gallopamil",
+        "group": "Calcium Channel Blockers - Verapamil Type",
+        "color": "DodgerBlue"
+    },
+    {
+        "word": "Enalapril",
+        "group": "ACE Inhibitors",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Lisinopril",
+        "group": "ACE Inhibitors",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Ramipril",
+        "group": "ACE Inhibitors",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Captopril",
+        "group": "ACE Inhibitors",
+        "color": "SaddleBrown"
+    },
+    {
+        "word": "Valsartan",
+        "group": "Sartans",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Candesartan",
+        "group": "Sartans",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Losartan",
+        "group": "Sartans",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Aliskiren",
+        "group": "Direct Renin Inhibitors",
+        "color": "Maroon"
+    },
+    {
+        "word": "Domperidone",
+        "group": "Dopamine Receptor Antagonists/Prokinetics",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Metoclopramide",
+        "group": "Dopamine Receptor Antagonists/Prokinetics",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Ondansetron",
+        "group": "Serotonin Receptor Antagonists",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Granisetron",
+        "group": "Serotonin Receptor Antagonists",
+        "color": "LightSteelBlue"
+    },
+    {
+        "word": "Scopolamine",
+        "group": "Anticholinergics",
+        "color": "DarkKhaki"
+    },
+    {
+        "word": "Meclizine",
+        "group": "Antihistamines",
+        "color": "PeachPuff"
+    },
+    {
+        "word": "Dimenhydrinate",
+        "group": "Antihistamines",
+        "color": "PeachPuff"
+    },
+    {
+        "word": "Diphenhydramine",
+        "group": "Antihistamines",
+        "color": "PeachPuff"
+    },
+    {
+        "word": "Aprepitant",
+        "group": "Neurokinin Receptor Antagonists",
+        "color": "SlateBlue"
+    },
+    {
+        "word": "Dexamethasone",
+        "group": "Glucocorticoids",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Gentamicin",
+        "group": "Aminoglycosides",
+        "color": "Brown"
+    },
+    {
+        "word": "Gentamycin",
+        "group": "Aminoglycosides",
+        "color": "Brown"
+    },
+    {
+        "word": "Tobramycin",
+        "group": "Aminoglycosides",
+        "color": "Brown"
+    },
+    {
+        "word": "Streptomycin",
+        "group": "Aminoglycosides",
+        "color": "Brown"
+    },
+    {
+        "word": "Vancomycin",
+        "group": "Glycopeptide Antibiotics",
+        "color": "Teal"
+    },
+    {
+        "word": "Teicoplanin",
+        "group": "Glycopeptide Antibiotics",
+        "color": "Teal"
+    },
+    {
+        "word": "Doxycycline",
+        "group": "Tetracyclines",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Tetracycline",
+        "group": "Tetracyclines",
+        "color": "LimeGreen"
+    },
+    {
+        "word": "Tigecycline",
+        "group": "Glycylcycline",
+        "color": "SpringGreen"
+    },
+    {
+        "word": "Clindamycin",
+        "group": "Lincosamides",
+        "color": "Gold"
+    },
+    {
+        "word": "Metronidazole",
+        "group": "Nitroimidazoles",
+        "color": "Sienna"
+    },
+    {
+        "word": "Cotrimoxazole",
+        "group": "Sulfonamide + Dihydrofolate Reductase Inhibitor",
+        "color": "SandyBrown"
+    },
+    {
+        "word": "Fosfomycin",
+        "group": "Fosfomycin",
+        "color": "Goldenrod"
+    },
+    {
+        "word": "Linezolid",
+        "group": "Oxazolidinones",
+        "color": "RosyBrown"
+    },
+    {
+        "word": "Rifampicin",
+        "group": "Ansamycins",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Rifaximin",
+        "group": "Ansamycins",
+        "color": "DarkSalmon"
+    },
+    {
+        "word": "Daptomycin",
+        "group": "Cyclic Lipopeptides",
+        "color": "BurlyWood"
+    },
+    {
+        "word": "Penicillins",
+        "group": "Classic Penicillins",
+        "color": "Red"
+    },
+    {
+        "word": "Isoxazolylpenicillin",
+        "group": "Isoxazolyl Penicillins (Staphylococcal Penicillins)",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Flucloxacillin",
+        "group": "Isoxazolyl Penicillins (Staphylococcal Penicillins)",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Dicloxacillin",
+        "group": "Isoxazolyl Penicillins (Staphylococcal Penicillins)",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Methicillin",
+        "group": "Isoxazolyl Penicillins (Staphylococcal Penicillins)",
+        "color": "DarkRed"
+    },
+    {
+        "word": "Amoxicillin",
+        "group": "Aminopenicillins",
+        "color": "Salmon"
+    },
+    {
+        "word": "Ampicillin",
+        "group": "Aminopenicillins",
+        "color": "Salmon"
+    },
+    {
+        "word": "Piperacillin",
+        "group": "Acylaminopenicillins",
+        "color": "Tomato"
+    },
+    {
+        "word": "Mezlocillin",
+        "group": "Acylaminopenicillins",
+        "color": "Tomato"
+    },
+    {
+        "word": "Amoxicillin_ClavulanicAcid",
+        "group": "Aminopenicillins + \u03b2-Lactamase Inhibitor",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Ampicillin_Sulbactam",
+        "group": "Aminopenicillins + \u03b2-Lactamase Inhibitor",
+        "color": "LightCoral"
+    },
+    {
+        "word": "Piperacillin_Tazobactam",
+        "group": "Acylaminopenicillins + \u03b2-Lactamase Inhibitor",
+        "color": "LightSalmon"
+    },
+    {
+        "word": "Cefazolin",
+        "group": "Cephalosporins of the 1st Generation",
+        "color": "Plum"
+    },
+    {
+        "word": "Cephalexin",
+        "group": "Cephalosporins of the 1st Generation",
+        "color": "Plum"
+    },
+    {
+        "word": "Cefuroxime",
+        "group": "Cephalosporins of the 2nd Generation",
+        "color": "Orchid"
+    },
+    {
+        "word": "Cefotiam",
+        "group": "Cephalosporins of the 2nd Generation",
+        "color": "Orchid"
+    },
+    {
+        "word": "Ceftriaxone",
+        "group": "Cephalosporins of the 3rd Generation (3a)",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Cefotaxime",
+        "group": "Cephalosporins of the 3rd Generation (3a)",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Cefixime",
+        "group": "Cephalosporins of the 3rd Generation (3a)",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Ceftibuten",
+        "group": "Cephalosporins of the 3rd Generation (3a)",
+        "color": "MediumPurple"
+    },
+    {
+        "word": "Ceftazidime",
+        "group": "Cephalosporins of the 3rd Generation (3b)",
+        "color": "BlueViolet"
+    },
+    {
+        "word": "Cefepime",
+        "group": "Cephalosporins of the 4th Generation",
+        "color": "Violet"
+    },
+    {
+        "word": "Ceftaroline",
+        "group": "Cephalosporins of the 5th Generation",
+        "color": "Magenta"
+    },
+    {
+        "word": "Ceftobiprole",
+        "group": "Cephalosporins of the 5th Generation",
+        "color": "Magenta"
+    },
+    {
+        "word": "Imipenem",
+        "group": "Carbapenems",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Meropenem",
+        "group": "Carbapenems",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Ertapenem",
+        "group": "Carbapenems",
+        "color": "DarkOrange"
+    },
+    {
+        "word": "Norfloxacin",
+        "group": "Fluoroquinolones Group I",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Ciprofloxacin",
+        "group": "Fluoroquinolones Group II",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Ofloxacin",
+        "group": "Fluoroquinolones Group II",
+        "color": "MediumSeaGreen"
+    },
+    {
+        "word": "Levofloxacin",
+        "group": "Fluoroquinolones Group III",
+        "color": "LightSeaGreen"
+    },
+    {
+        "word": "Moxifloxacin",
+        "group": "Fluoroquinolones Group IV",
+        "color": "LightSeaGreen"
+    },
+    {
+        "word": "Erythromycin",
+        "group": "Macrolides",
+        "color": "Cyan"
+    },
+    {
+        "word": "Azithromycin",
+        "group": "Macrolides",
+        "color": "Cyan"
+    },
+    {
+        "word": "Roxithromycin",
+        "group": "Macrolides",
+        "color": "Cyan"
+    },
+    {
+        "word": "Clarithromycin",
+        "group": "Macrolides",
+        "color": "Cyan"
+    }
+]
